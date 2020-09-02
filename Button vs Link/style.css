@@ -1,0 +1,140 @@
+/* Mengatur yang ada pada body */
+body {
+	background: #f5f5f5;
+	/* membuat containernya menjadi flexible */
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	/* viewport height memiliki panjang relatif berskala lebih baik diantara media yang digunakan  */
+	height: 100vh;
+	/* jarak antar pinggir halaman/conten */
+	margin: 0;
+	font-family: sans-serif;
+}
+/* Mengatur yang ada pada a (button investasi sekarang */
+a {
+	/* membuat dekorasi menjadi default pada teks investasi sekarang) */
+	text-decoration: none;
+	/* mengatur warna menjadi default */
+	color: initial;
+}
+/* Mengatur box dgn memanggil class(.box = selector, width= properties, 360px=value) */
+.box {
+	width: 360px;
+	height: 640px;
+	border: solid 1px #ededed;
+	background: #fff;
+	display: flex;
+	flex-direction: column;
+	/* elemen diposisikan paling utama (depan) jika ada layer */
+	position: relative;
+}
+
+
+/* Mengatur header yang ada didalam container dengan memanggil class(selector) */
+.header {
+	height: 45px;
+    display: flex;
+	align-items: center;
+	/* elemen diposisikan dengan space antara garis (kiri nempel ke kiri, kanan kekanan, tengah ketengah */
+	justify-content: space-between;
+	/* Mengatur padding 0 = atas bawah, 16 = kiri kanan */
+	padding: 0 16px;
+	border-bottom: solid 1px #ededed;
+}
+/* Mengatur img header dengan memanggil class(selector) */
+.header img {
+	height: 16px;
+	width: auto;
+}
+.header-logo img {
+	height: 14px;
+}
+.content {
+	/* Memungkinkan untuk melakukan penghitungan untuk menentukan nilai properti CSS */
+	height: calc(100% - 95px);
+	display: flex;
+    align-items: center;
+	justify-content: center;
+	/* Membuat urutan menjadikan kolom kebawah */
+	flex-direction: column;
+}
+.content img {
+	width: 240px;
+	height: 0px;
+}
+.content span {
+	padding: 0 0 30px 0;
+}
+.content a {
+	/* Mengatur button */
+	display: inline-block;
+	/* mengatur jarak antara text didalam button dengan outline button */
+	padding: 10px 20px;
+	background: #00ab6b;
+	border-radius: 6px;
+	text-align: center;
+	color: #fff;
+}
+
+/* display: flex;
+ *//* Properti align-items menentukan perataan default untuk item di dalam wadah fleksibel. */
+/* align-items: center;
+ *//* Properti justify-content meratakan item wadah fleksibel ketika item tidak menggunakan 
+semua ruang yang tersedia di sumbu utama (secara horizontal). */
+/* justify-content: center;
+ *//* Item (navbar) diposisikan di ujung wadah (bawah) Buat yg beda sendiri*/
+/* align-self: flex-end;
+ *//* height: 50px;
+position: absolute;
+bottom: 0;
+left: 0;
+right: 0; */
+
+.fotter {
+	display: flex;
+	align-items: center;
+	position: absolute;
+	bottom: 0px;
+	right: 0px;
+	left: 0px;
+	height: 50px;
+	border-top: solid 1px #ededed;
+}
+.fotter-menu {
+	width: 20%;	
+}
+.fotter-menu a {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	font-size: 10px;
+	/* Merubah warna svg menjadi hijau */
+/* 	filter: invert(41%) sepia(98%) saturate(707%) hue-rotate(119deg) brightness(93%) contrast(101%); */
+}
+.fotter-menu img {
+	width: 16px;
+	height: auto;
+}
+.fotter-menu span {
+	/* Satu penggunaan umum untuk tampilan: blok-sebaris adalah untuk menampilkan item 
+	daftar secara horizontal, bukan vertikal. Contoh berikut membuat tautan navigasi horizontal: */
+	display: inline-block;
+	padding-top: 3px;
+}
+
+.content-baru {
+	/* Memungkinkan untuk melakukan penghitungan untuk menentukan nilai properti CSS */
+	height: calc(100% - 95px);
+	display: flex;
+    align-items: center;
+	justify-content: center;
+	/* Membuat urutan menjadikan kolom kebawah */
+	flex-direction: column;
+}
+
+.button {
+	background-color: #ffffff;	
+	border: #fff;
+}
