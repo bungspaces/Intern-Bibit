@@ -1,0 +1,35 @@
+h5 {
+  text-align: center;
+}
+
+/* Script untuk navbar */
+.flex-container {
+display: flex;
+height: 56px;
+align-items: center;
+background-color: #ffffff;
+}
+
+/* Script untuk navbar */
+.flex-container > div {
+background-color: #f1f1f1;
+width: 48px;
+margin: px;
+text-align: center;
+line-height: 40px;
+font-size: 12px;
+}
+
+.btn {
+border: none;
+outline: none;
+padding: px;
+background-color: #f1f1f1;
+cursor: pointer;
+}
+
+/* Style the active class (and buttons on mouse-over) */
+.active, .btn:hover {
+background-color: #b9b9b9;
+color: white;
+}
