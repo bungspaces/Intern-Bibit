@@ -125,6 +125,8 @@ right: 0; */
 	padding-top: 3px;
 }
 
+
+
 .content-baru {
 	/* Memungkinkan untuk melakukan penghitungan untuk menentukan nilai properti CSS */
 	height: calc(100% - 95px);
