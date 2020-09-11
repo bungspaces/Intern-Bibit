@@ -1,24 +1,72 @@
-# Intern #day21 (21 Aug 2020)
+# Intern #day25
 
-- Mempelajari struktur, syntax, dokumentasi, dll kodingan CSS dan HTML yang telah diberikan dan akan ditest jika sudah siap
+- Mengerjakan soal yang belum selesai
+    1. Display: inline, block, inline-block
+    2. Penamaan yang baik untuk setiap class
+- Izin dari jam 13.00 - 18.00
 
 # Tips
 
 ---
 
-1. Area yang dapat di click
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/44ec0b88-80e6-428d-853f-824cb2fe105f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/44ec0b88-80e6-428d-853f-824cb2fe105f/Untitled.png)
-
-2. Menyesuaikan Layout
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ee48265-b5d3-44e4-837e-0f6d1e2044d6/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ee48265-b5d3-44e4-837e-0f6d1e2044d6/Untitled.png)
-
 # Struggle
 
 ---
 
-1. 
+# Homeworks!
+
+---
+
+1. Perbedaan href dan button (kegunaannya) ✅
+
+    a. Button = tombol yang bisa diklik = **action** (ibarat saklar lampu, pasti ada sesuatu yang berubah setelah di pencet)
+
+       Href  = link/tautan (tulisan yang bisa diklik) = sambung-menyambung (**limitless**, lebih cocok diartikan "pergi dari satu tempat ke tempat lain) atau pergi ketempat lain
+
+    ---
+
+2. Href (buat link tampilan seperti button) ✅
+
+    ```css
+    a. file:///C:/xampp/htdocs/intern/link.html
+    ```
+
+3. Button (buat button tampilan seperti link) ✅
+
+    ```css
+    a. file:///C:/xampp/htdocs/intern/link.html
+    ```
+
+    ---
+
+4. Cara memberi nama class yang baik ❌
+
+    ---
+
+5. Bedanya `<div>` sama `<span>`
+
+    a. `Div` dan Span sama2 tag yang tidak memiliki makna (berbeda dengan tag html yg lain)
+
+    b. `Div` tidak memiliki style bawaan
+
+    c. `Div` akan memberikan *enter* ke setiap `div`, sedangkan `span` tidak
+
+    ## Contoh:
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/437a98dd-9ae3-4640-9975-c02b0c1e98e9/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/437a98dd-9ae3-4640-9975-c02b0c1e98e9/Untitled.png)
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cdc6186a-e8b1-4791-b94b-62b60ec1b172/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cdc6186a-e8b1-4791-b94b-62b60ec1b172/Untitled.png)
+
+6. Coba body (display flex, block, inline)
+
+div: block
+span: inline
+
+span div (turun kebawah)
+
+inline padding
+
+flex (spsial, kita bisa ngatur kiri, atas, kanan, atas, dll)
 
 # Goals
 

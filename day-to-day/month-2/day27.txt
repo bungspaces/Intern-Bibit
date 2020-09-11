@@ -1,26 +1,140 @@
-# Intern #day21 (21 Aug 2020)
+# Intern #day27
 
-- Mempelajari struktur, syntax, dokumentasi, dll kodingan CSS dan HTML yang telah diberikan dan akan ditest jika sudah siap
-
-# Tips
-
----
-
-1. Area yang dapat di click
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/44ec0b88-80e6-428d-853f-824cb2fe105f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/44ec0b88-80e6-428d-853f-824cb2fe105f/Untitled.png)
-
-2. Menyesuaikan Layout
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ee48265-b5d3-44e4-837e-0f6d1e2044d6/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ee48265-b5d3-44e4-837e-0f6d1e2044d6/Untitled.png)
+- Mereview kembali soal yang diberikan sebelum di test
 
 # Struggle
 
 ---
 
-1. 
+1. Gambar example.png tidak tampil ketika ditambahkan link.html dan css nya dimodifikasi
+
+# Homeworks!
+
+---
+
+1. Perbedaan href dan button (kegunaannya) ✅
+
+    a. Button = tombol yang bisa diklik = **action** (ibarat saklar lampu, pasti ada sesuatu yang berubah setelah di pencet)
+
+    b. Href  = link/tautan (tulisan yang bisa diklik) = sambung-menyambung (**limitless**, lebih cocok diartikan "pergi dari satu tempat ke tempat lain) atau pergi ketempat lain
+
+    ---
+
+2. Href (buat link tampilan seperti button) ✅
+
+    ```css
+    a. file:///C:/xampp/htdocs/intern/link.html
+    ```
+
+3. Button (buat button tampilan seperti link) ✅
+
+    ```css
+    a. file:///C:/xampp/htdocs/intern/link.html
+    ```
+
+    ---
+
+4. Cara memberi nama class yang baik ✅
+
+    a. Selalu **diawali dengan . (titik)** kemudian **diikuti dengan nama *class***
+
+    b. Nama *class* **diawali dengan huruf**
+
+    c. Ingat, nama *class* merupakan ***case-sensitive*** (perbedaan besar kecilnya huruf berpengaruh)
+
+    ---
+
+5. Bedanya `<div>` sama `<span>` ✅
+
+    a. `Div` dan Span sama2 tag yang tidak memiliki makna (berbeda dengan tag html yg lain)
+
+    b. `Div` tidak memiliki style bawaan
+
+    c. `Div` akan memberikan *enter* ke setiap `div`, sedangkan `span` tidak
+
+    ### Contoh:
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/437a98dd-9ae3-4640-9975-c02b0c1e98e9/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/437a98dd-9ae3-4640-9975-c02b0c1e98e9/Untitled.png)
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cdc6186a-e8b1-4791-b94b-62b60ec1b172/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cdc6186a-e8b1-4791-b94b-62b60ec1b172/Untitled.png)
+
+6. Coba body (display: inline | block | inline-block) ✅
+
+    ```css
+    **display: inline;**
+
+    // Hanya memblok sesuai dengan konten yang ada pada elemen tersebut.
+    // Nilai lebar dan tinggi dari elemen tersebut tidak dapat diubah atau diatur.
+    ```
+
+    ```html
+    // Elemen html yang memiliki default value inline, yaitu:
+    <span>
+    <a>
+    <img>
+    ```
+
+    ```css
+    **display: block;**
+
+    // Selalu membuat blok baru pada tampilan. 
+    // Elemen membentang dari kiri hingga ke kanan mengisi penuh lebar dari halaman browser.
+    // Dapat mengatur lebar, tinggi, margin sesuai dengan kebutuhan yang kita inginkan.
+    ```
+
+    ```html
+    // Elemen html yang memiliki default value inline, yaitu:
+    <div>
+    <p>
+    <form>
+    <header>
+    <footer>
+    <section>
+    ```
+
+    ```css
+    **display: inline-blockl;**
+
+    // Gabungan dari dua value sebelumnya yaitu, inline dan block. 
+    // Tampil secara inline atau sejajar/menyamping.
+    // Memiliki sifat value block.
+    ```
+
+    ```html
+    // Elemen html yang memiliki default value inline, yaitu:
+    <span>
+    <a>
+    <img>
+    ```
+
+    ### Reference
+
+    [Tryit Editor v3.6](https://www.w3schools.com/css/tryit.asp?filename=trycss_inline-block_span1)
+
+# Additional Case
+
+---
+
+1. Perbedaan Class dengan ID
+
+1. **Class di panggil** pada css atau js **menggunakan . (titik)**
+2. **Id di panggil** pada css atau js **menggunakan # (pagar)**
+3. **Class digunakan dibanyak element** 
+4. **Id digunakan pada satu element saja**
+
+2. Know more about Flexbox
+
+1. Ada **dua komponen utama sebuah layout Flexbox** yaitu container dan item
+
+### Reference
+
+[Flexbox playground](https://codepen.io/enxaneta/full/adLPwv/?__cf_chl_jschl_tk__=95946bb3b931440c677d5491a413ba00eb010243-1598599491-0-AQWnD5u9iCgRFByvJ1R_GW5tMTZkEJmUNnll0xGK0WdEmEWZePHZVsL5iYY08tNtQkZLgP-i62ZfVMJTrdk9pVJrxp2nD0FHeQVeBPpoGgDKHI1ooCe90YKSoP4WjC29EwJumG3YGYCS235iM8AirvpsDc96flkBHe-dFlwuwe_OjUSprPxkUk7Ic0Tz8235RAQuX9_ixlRR6_Pd3yv4TFkwE1Dya7vhZWR5zyeDTWYspTWHwEzxtpXm9kH3JINUmuRLbdPzsT3Zzy95TRm6xeBtMy4Y-jbvby3Y1SI901DlKP2zV9mXsy0vKBJxKeL1X0-IOm_dnCEHJuYsDIq7ttLURKBLFa5Z5EGXdsrLDFu8)
+
+[Belajar CSS Flexbox dalam 5 Menit - CodePolitan.com](https://www.codepolitan.com/belajar-css-flexbox-dalam-5-menit-5a5c5be5deba0)
 
 # Goals
+
+---
 
 - Meredesain tampilan (UI)
 - Meredesain flow (UX)
