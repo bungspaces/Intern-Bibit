@@ -6,6 +6,10 @@ As a UI Designer Intern and Frontend Dev.
 
 Task: Build web applications with a web view of the designs that have been made.
 
-From Scratch: code I built from scratch
+--
 
-Original Code: code given by my intern supervisor
+from-scratch: code I built from scratch
+
+original-code: code given by my intern supervisor
+
+day-to-day: internship diary
