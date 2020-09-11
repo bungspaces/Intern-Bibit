@@ -1,18 +1,6 @@
-# Intern #day21 (21 Aug 2020)
+# Intern #day33
 
-- Mempelajari struktur, syntax, dokumentasi, dll kodingan CSS dan HTML yang telah diberikan dan akan ditest jika sudah siap
-
-# Tips
-
----
-
-1. Area yang dapat di click
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/44ec0b88-80e6-428d-853f-824cb2fe105f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/44ec0b88-80e6-428d-853f-824cb2fe105f/Untitled.png)
-
-2. Menyesuaikan Layout
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ee48265-b5d3-44e4-837e-0f6d1e2044d6/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ee48265-b5d3-44e4-837e-0f6d1e2044d6/Untitled.png)
+- Mereview 4 soal yang sudah dikerjakan sebelum ditest melalui gmeet
 
 # Struggle
 
@@ -20,7 +8,111 @@
 
 1. 
 
+# Homeworks!
+
+---
+
+1. Kapan menggunakan strip dgn underscore (.button_home) (.button-home)
+
+    a. Underscore memerlukan effort lebih seperti harus menekan shift
+
+    b. Konsistensi style bawaan CSS yang menggunakan *`strip` seperti:*
+
+    ```css
+    background-color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    ```
+
+    c. Memisahkan kata dalam `ID` dan nama `class` dengan strip. Berguna untuk meningkatkan pemahaman dan kemampuan memindai
+
+    ```css
+    /* Not recommended: does not separate the words “demo” and “image” */
+    .demoimage {}
+
+    /* Not recommended: uses underscore instead of hyphen */
+    .error_status {}
+
+    /* Recommended */
+    #video-id {}
+    .ads-sample {}
+    ```
+
+    ### Referensi
+
+    [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#ID_and_Class_Name_Delimiters)
+
+2. Nama class jika ada titik dua (:) .button:xxx (**X:visited** and **X:link**)
+
+    a. `:link` pseudo-class untuk menargetkan semua tag yang belum diklik
+
+    `:visited` pseudo class untuk menerapkan styling khusus untuk hanya tag anchor pada halaman yang telah diklik atau telah dikunjungi
+
+    b. Pseudo-class adalah **selector CSS yang digunakan untuk mengakses bagian tertentu** dalam HTML yang tidak 'terlihat' (tidak tertulis di dalam HTML) atau bagian dari HTML yang tidak bisa diakses dengan selector sederhana lain.
+
+    ```css
+    a:link { color: red; }
+    a:visted { color: purple; }
+    ```
+
+    ### Reference
+
+    [CSS Selectors](https://cdn.tutsplus.com/net/uploads/legacy/840_cssSelectors/selectors/links.html?_ga=2.86430616.1276368955.1599201022-322808299.1599201022)
+
+    [30 CSS Selector Yang Harus Anda Ketahui](https://code.tutsplus.com/id/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+
+3. Kalo spasi artinya apa (.button home)
+
+    a. Anda tidak dapat memiliki spasi dalam nilai id atau nama kelas. Ketika Anda memiliki spasi dalam nilai atribut class, ia menentukan beberapa kelas yang berlaku untuk elemen itu:
+
+    ```css
+    <p class="paragraph one"> <!--Has both "paragraph" and "one" class-->
+    ```
+
+    Jadi, **ada dua kelas berbeda** disana
+
+    ### Reference
+
+    [menangani id dan kelas css dengan spasi](https://www.it-swarm.dev/id/css/menangani-id-dan-kelas-css-dengan-spasi/942482915/)
+
+4. Urutan prioritas selector CSS (class, selector html, urutan naro, !important, inline, dll)
+
+    a. `Inline-style` **memiliki prioritas terkuat daripada `internal-style` dan `eksternal-style`
+
+    1.1 `Inline-style`, yakni style yang langsung melekat pada tag.
+
+    1.2 `Internal-style`, yakni style yang dideklarasikan pada awal halaman (tag `<style>`).
+
+    1.3 `Eksternal-style`, yakni style yang dideklarasikan pada sebuah file .css , dan dipanggil melalui tag `<link>` atau `@import`.
+
+    b. `Inline-style` kalah dengan `!important`
+
+    c. CSS memiliki aturan tertentu tentang ke-spesifik-an selector, yaitu ketika sebuah property dari CSS, saling menimpa satu sama lain, ***selector yang paling spesifik lah yang akan menang***.
+
+    ```css
+    Setiap element/tag selector bernilai 0,0,0,1
+    Setiap class selector, attribut selector bernilai 0,0,1,0
+    Setiap ID selector bernilai 0,1,0,0
+    Setiap inline style bernilai 1,0,0,0
+    ```
+
+    ### Reference
+
+    [Prioritas Selector CSS atau CSS Specificity](https://www.aneiqbal.com/2016/11/prioritas-selector-css.html)
+
+    [Dicky BLC Telkom - KPLI Klaten: Belajar CSS : Urutan Prioritas Selector CSS (Cascading)](https://dicky69news.blogspot.com/2017/02/belajar-css-urutan-prioritas-selector.html)
+
+    [Tutorial Belajar CSS: Urutan Prioritas Selector CSS (Specificity) | Duniailkom](https://www.duniailkom.com/tutorial-belajar-css-urutan-prioritas-selector-css-specificity/)
+
+# Additional Case
+
+---
+
+1. 
+
 # Goals
+
+---
 
 - Meredesain tampilan (UI)
 - Meredesain flow (UX)

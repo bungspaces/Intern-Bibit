@@ -1,6 +1,6 @@
-# Intern #day32
+# Intern #day34
 
-- Mengerjakan beberapa soal lanjutan yang dikasih
+- Mereview 4 soal yang sudah dikerjakan sebelum ditest melalui gmeet dan coba mengimplementasikan javascript
 
 # Struggle
 
@@ -108,7 +108,20 @@
 
 ---
 
-1. 
+1. Implementasi Javascript pada halaman `link.html`
+
+    a. Javascript dapat menampilkan elemen HTML yang tersembunyi
+
+    ```jsx
+    document.getElementById("demo").style.display = "block";]
+    ```
+
+    ### Reference
+
+    [JavaScript Introduction](https://www.w3schools.com/js/js_intro.asp)
+
+2. xx
+3. xx
 
 # Goals
 
