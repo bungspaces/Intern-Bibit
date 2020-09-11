@@ -1,0 +1,31 @@
+# Intern #day19
+
+- Mempelajari struktur, syntax, dokumentasi, dll kodingan CSS dan HTML yang telah diberikan dan akan ditest jika sudah siap
+
+# Tips
+
+---
+
+1. Block, inline-block, inline
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/29fff410-9924-4960-a92a-d015f15c379f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/29fff410-9924-4960-a92a-d015f15c379f/Untitled.png)
+
+# Struggle
+
+---
+
+1. Kesulitan memahami fungsi dari CSS
+
+    ```css
+    height: calc(100% - 95px);
+    ```
+
+# Goals
+
+- Meredesain tampilan (UI)
+- Meredesain flow (UX)
+- Menstandarisasi tampilan UI/UX aplikasi Bibit
+- Membuat style aplikasi Bibit menjadi lebih konsisten
+- Mengimplementasi desain yang telah dibuat menggunakan html dan css
+
+Meredesain semua yang dirasa kurang dari segi visual maupun kegunaan, dari hal terbesar maupun hal terkecil sekalipun

@@ -1,0 +1,19 @@
+# Intern #day18
+
+- Mempelajari struktur, syntax, dokumentasi, dll kodingan CSS yang telah diberikan dan akan ditest jika sudah siap
+
+# Struggle
+
+---
+
+1. 
+
+# Goals
+
+- Meredesain tampilan (UI)
+- Meredesain flow (UX)
+- Menstandarisasi tampilan UI/UX aplikasi Bibit
+- Membuat style aplikasi Bibit menjadi lebih konsisten
+- Mengimplementasi desain yang telah dibuat menggunakan html dan css
+
+Meredesain semua yang dirasa kurang dari segi visual maupun kegunaan, dari hal terbesar maupun hal terkecil sekalipun

@@ -1,0 +1,26 @@
+# Intern #day13
+
+- Redesain halaman reksadana versi web
+- Redesain order details versi app
+- Menunggu feedback kodingan
+- Revisi - Membuat materi presentasi untuk (**tambahan**)
+    - Template design PPT untuk visi, misi dan values
+    - Logo ikon untuk values (5 ikon)
+    - Poster design seluruh values dan keterangannya (1 poster)
+    - Poster design untuk masing-masing values dan keterangannya (1 poster u/ masing2 values)
+
+    # Struggle
+
+    ---
+
+    1. 
+
+# Goals
+
+- Meredesain tampilan (UI)
+- Meredesain flow (UX)
+- Menstandarisasi tampilan UI/UX aplikasi Bibit
+- Membuat style aplikasi Bibit menjadi lebih konsisten
+- Mengimplementasi desain yang telah dibuat menggunakan html dan css
+
+Meredesain semua yang dirasa kurang dari segi visual maupun kegunaan, dari hal terbesar maupun hal terkecil sekalipun
