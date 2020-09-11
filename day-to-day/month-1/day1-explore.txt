@@ -1,0 +1,18 @@
+# Intern #day1 (21 Jul 2020)
+
+- Mendapatkan brief seputar proyek yang akan dikerjakan selama magang
+- Memahami flow atau alur kerja dari proses keseluruhan aplikasi Bibit
+- Mencari (***explore***) celah atau kekurangan yang terdapat pada aplikasi Bibit
+    - Segi keamanan
+    - Segi kenyamanan
+    - Segi kegunaan
+    - Segi tampilan
+
+# Goals
+
+- Meredesain tampilan (UI)
+- Meredesain flow (UX)
+- Menstandarisasi tampilan UI/UX aplikasi Bibit
+- Membuat style aplikasi Bibit menjadi lebih konsisten
+
+Meredesain semua yang dirasa kurang dari segi visual maupun kegunaan, dari hal terbesar maupun hal terkecil sekalipun.

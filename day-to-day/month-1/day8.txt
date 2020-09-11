@@ -1,0 +1,24 @@
+# Intern #day8
+
+- Eksplorasi kembali fitur **portofolio** dengan melakukan investasi dengan uang asli
+    - Mencari kekurangan atau celah dari segi sistem dan desain
+- Membuat layout: **page standar**, header, footer (tab menu) dengan HTML dan CSS
+    - Menggunakan framework: **bootstrap**
+    - Mengimplementasikan logo bibit dan button search pada top-navbar
+- Eksplorasi screen **register**
+    - Mencari flow ideal untuk *date time picker*
+- Membuat materi presentasi untuk (**tambahan**)
+    - Template design PPT untuk visi, misi dan values
+    - Logo ikon untuk values (5 ikon)
+    - Poster design seluruh values dan keterangannya (1 poster)
+    - Poster design untuk masing-masing values dan keterangannya (1 poster u/ masing2 values)
+
+# Goals
+
+- Meredesain tampilan (UI)
+- Meredesain flow (UX)
+- Menstandarisasi tampilan UI/UX aplikasi Bibit
+- Membuat style aplikasi Bibit menjadi lebih konsisten
+- Mengimplementasi desain yang telah dibuat menggunakan html dan css
+
+Meredesain semua yang dirasa kurang dari segi visual maupun kegunaan, dari hal terbesar maupun hal terkecil sekalipun

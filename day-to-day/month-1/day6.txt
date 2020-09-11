@@ -1,0 +1,18 @@
+# Intern #day6
+
+- Melakukan **competitor analysis**
+    - Meneliti keunggulan dan kelemahan dari aplikasi sejenis
+    - Mencari aplikasi atau website apa saja yang menyediakan layanan yang sama
+    - Membandingkan semua jenis aplikasi atau webiste yang serupa melalui fiturnya
+    - Membuat Pros and Cons antar aplikasi reksadana
+    - Mencoba aplikasi reksadana yang sejenis
+- Re-check untuk memastikan tidak ada case-case yang terlewat
+
+# Goals
+
+- Meredesain tampilan (UI)
+- Meredesain flow (UX)
+- Menstandarisasi tampilan UI/UX aplikasi Bibit
+- Membuat style aplikasi Bibit menjadi lebih konsisten
+
+Meredesain semua yang dirasa kurang dari segi visual maupun kegunaan, dari hal terbesar maupun hal terkecil sekalipun

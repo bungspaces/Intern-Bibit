@@ -1,0 +1,35 @@
+# Intern #day12
+
+- Membuat before-after dari screen home (setelah berinvestasi, grafik hijau atau merah)
+- Membuat layout: **page standar**, header, footer (tab menu) dengan HTML dan CSS
+    - Menggunakan framework: **bootstrap**
+    - Menyesuaikan navbar dengan style bibit app
+- Revisi - Membuat materi presentasi untuk (**tambahan**)
+    - Template design PPT untuk visi, misi dan values
+    - Logo ikon untuk values (5 ikon)
+    - Poster design seluruh values dan keterangannya (1 poster)
+    - Poster design untuk masing-masing values dan keterangannya (1 poster u/ masing2 values)
+
+    # Struggle
+
+    ---
+
+    1. Kesulitan dalam membuat navbar
+
+        ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/40f6dd7c-98c5-452e-adf4-f7104f7a3ce5/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/40f6dd7c-98c5-452e-adf4-f7104f7a3ce5/Untitled.png)
+
+        Hasil
+
+        ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96fe034c-c6c8-410f-9571-82a57b16ef6e/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96fe034c-c6c8-410f-9571-82a57b16ef6e/Untitled.png)
+
+        Contoh
+
+# Goals
+
+- Meredesain tampilan (UI)
+- Meredesain flow (UX)
+- Menstandarisasi tampilan UI/UX aplikasi Bibit
+- Membuat style aplikasi Bibit menjadi lebih konsisten
+- Mengimplementasi desain yang telah dibuat menggunakan html dan css
+
+Meredesain semua yang dirasa kurang dari segi visual maupun kegunaan, dari hal terbesar maupun hal terkecil sekalipun

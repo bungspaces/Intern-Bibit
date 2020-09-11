@@ -1,0 +1,14 @@
+# Intern #day5 (27 Jul 2020)
+
+- Eksplorasi screen **portofolio, transaksi, support, profil, dan error case**
+    - Mencari kekurangan atau celah dari segi sistem dan desain
+- Membuat rancangan desain dari kekurangan atau celah yang ditemukan
+
+# Goals
+
+- Meredesain tampilan (UI)
+- Meredesain flow (UX)
+- Menstandarisasi tampilan UI/UX aplikasi Bibit
+- Membuat style aplikasi Bibit menjadi lebih konsisten
+
+Meredesain semua yang dirasa kurang dari segi visual maupun kegunaan, dari hal terbesar maupun hal terkecil sekalipun

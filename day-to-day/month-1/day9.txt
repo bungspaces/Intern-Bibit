@@ -1,0 +1,43 @@
+# Intern #day9
+
+- Membuat before-after dari fitur portofolio
+- Membuat layout: **page standar**, header, footer (tab menu) dengan HTML dan CSS
+    - Menggunakan framework: **bootstrap**
+    - Membuat navbar dengan menggunakan flexbox
+- Revisi - Membuat materi presentasi untuk (**tambahan**)
+    - Template design PPT untuk visi, misi dan values
+    - Logo ikon untuk values (5 ikon)
+    - Poster design seluruh values dan keterangannya (1 poster)
+    - Poster design untuk masing-masing values dan keterangannya (1 poster u/ masing2 values)
+
+    # Struggle
+
+    ---
+
+    1. Kesulitan untuk membuat navbar
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2cbe7bb7-21b8-4e5d-aa51-e88d930c146c/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2cbe7bb7-21b8-4e5d-aa51-e88d930c146c/Untitled.png)
+
+    Contoh
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d1f438b9-b47c-4a6e-a500-4841cb58b163/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d1f438b9-b47c-4a6e-a500-4841cb58b163/Untitled.png)
+
+    Navbar I
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/103b17ed-db94-4f85-8447-2372825dc4c5/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/103b17ed-db94-4f85-8447-2372825dc4c5/Untitled.png)
+
+    Navbar II
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2850ca1b-a316-4113-897a-a18bbcf121d7/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2850ca1b-a316-4113-897a-a18bbcf121d7/Untitled.png)
+
+    Navbar III
+
+# Goals
+
+- Meredesain tampilan (UI)
+- Meredesain flow (UX)
+- Menstandarisasi tampilan UI/UX aplikasi Bibit
+- Membuat style aplikasi Bibit menjadi lebih konsisten
+- Mengimplementasi desain yang telah dibuat menggunakan html dan css
+
+Meredesain semua yang dirasa kurang dari segi visual maupun kegunaan, dari hal terbesar maupun hal terkecil sekalipun

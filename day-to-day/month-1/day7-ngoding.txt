@@ -1,0 +1,17 @@
+# Intern #day7
+
+- Membuat layout: **page standar**, header, footer (tab menu) dengan HTML dan CSS
+    - Menggunakan framework: **bootstrap**
+    - Membuat mobile web view menggunakan container dengan ukuran android device 360x640px
+- Eksplorasi screen **register**
+    - Mencari flow ideal untuk *date time picker*
+
+# Goals
+
+- Meredesain tampilan (UI)
+- Meredesain flow (UX)
+- Menstandarisasi tampilan UI/UX aplikasi Bibit
+- Membuat style aplikasi Bibit menjadi lebih konsisten
+- Mengimplementasi desain yang telah dibuat menggunakan html dan css
+
+Meredesain semua yang dirasa kurang dari segi visual maupun kegunaan, dari hal terbesar maupun hal terkecil sekalipun

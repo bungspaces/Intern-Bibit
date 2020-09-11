@@ -1,0 +1,29 @@
+# Intern #day10 (4 Aug 2020)
+
+- Membuat before-after dari fitur portofolio, dan transaksi
+- Membuat layout: **page standar**, header, footer (tab menu) dengan HTML dan CSS
+    - Menggunakan framework: **bootstrap**
+    - Membuat active class untuk halaman yang sedang aktif
+- Revisi - Membuat materi presentasi untuk (**tambahan**)
+    - Template design PPT untuk visi, misi dan values
+    - Logo ikon untuk values (5 ikon)
+    - Poster design seluruh values dan keterangannya (1 poster)
+    - Poster design untuk masing-masing values dan keterangannya (1 poster u/ masing2 values)
+
+    # Struggle
+
+    ---
+
+    1. Kesulitan mengimplementasikan flexbox (navbar) untuk active class
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c18ca802-ad0d-4775-b94f-7ceb793d5780/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c18ca802-ad0d-4775-b94f-7ceb793d5780/Untitled.png)
+
+# Goals
+
+- Meredesain tampilan (UI)
+- Meredesain flow (UX)
+- Menstandarisasi tampilan UI/UX aplikasi Bibit
+- Membuat style aplikasi Bibit menjadi lebih konsisten
+- Mengimplementasi desain yang telah dibuat menggunakan html dan css
+
+Meredesain semua yang dirasa kurang dari segi visual maupun kegunaan, dari hal terbesar maupun hal terkecil sekalipun
