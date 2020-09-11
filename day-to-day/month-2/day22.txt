@@ -1,18 +1,10 @@
-# Intern #day21 (21 Aug 2020)
+# Intern #day22
 
 - Mempelajari struktur, syntax, dokumentasi, dll kodingan CSS dan HTML yang telah diberikan dan akan ditest jika sudah siap
 
 # Tips
 
 ---
-
-1. Area yang dapat di click
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/44ec0b88-80e6-428d-853f-824cb2fe105f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/44ec0b88-80e6-428d-853f-824cb2fe105f/Untitled.png)
-
-2. Menyesuaikan Layout
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ee48265-b5d3-44e4-837e-0f6d1e2044d6/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ee48265-b5d3-44e4-837e-0f6d1e2044d6/Untitled.png)
 
 # Struggle
 
