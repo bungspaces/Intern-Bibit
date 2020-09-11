@@ -1,4 +1,4 @@
-# Intern #day35
+# Intern #day35 (10 Sept 2020)
 
 - Mereview 4 soal yang sudah dikerjakan sebelum ditest melalui gmeet dan hari test
 - `Tidak jadi test karena terkendala masalah teknis jaringan internet`

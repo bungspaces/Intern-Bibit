@@ -1,4 +1,4 @@
-# Intern #day25
+# Intern #day25 (27 Aug 2020)
 
 - Mengerjakan soal yang belum selesai
     1. Display: inline, block, inline-block
