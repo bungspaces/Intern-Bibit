@@ -1,0 +1,36 @@
+# Intern #day30
+
+- Hari test menggunakan google meet dan mendapatkan banyak sekali feedback lalu juga mendapatkan beberapa soal lanjutan
+
+# Struggle
+
+---
+
+1. 
+
+# Homeworks!
+
+---
+
+1. Kapan menggunakan strip dgn underscore (.button_home) (.button-home)
+2. Nama class jika ada titik dua (:) .button:xxx (artinya apa)
+3. Kalo spasi artinya apa (.button home)
+4. Urutin siapa yg paling kuat (class, selector html, urutan naro, !important, inline)
+
+# Additional Case
+
+---
+
+1. 
+
+# Goals
+
+---
+
+- Meredesain tampilan (UI)
+- Meredesain flow (UX)
+- Menstandarisasi tampilan UI/UX aplikasi Bibit
+- Membuat style aplikasi Bibit menjadi lebih konsisten
+- Mengimplementasi desain yang telah dibuat menggunakan html dan css
+
+Meredesain semua yang dirasa kurang dari segi visual maupun kegunaan, dari hal terbesar maupun hal terkecil sekalipun
