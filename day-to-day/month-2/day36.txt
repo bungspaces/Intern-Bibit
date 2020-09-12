@@ -1,6 +1,14 @@
-# Intern #day35
-
 - Mereview 4 soal yang sudah dikerjakan sebelum ditest melalui gmeet dan hari test
+- `Tidak jadi test karena Pembimbing/Bapaknya lagi banyak kerjaan`
+- Sebagai gantinya, diberikan 4 tambahan soal:
+    1. pelajari posisition di css:
+    static
+    relative
+    fixed
+    absolute
+    2. Apa guna property 'float' di css
+    3. cara menggunakan custom font di google font
+    4. selain px, satuan ukuran apa yg sering digunakan di css?
 
 # Struggle
 
