@@ -1,1 +1,11 @@
 # Intern #day37
+
+Mengerjakan soal-soal tambahan yang telah diberikan
+1. pelajari posisition di css:
+    static
+    relative
+    fixed
+    absolute
+2. Apa guna property 'float' di css
+3. cara menggunakan custom font di google font
+4. selain px, satuan ukuran apa yg sering digunakan di css?
