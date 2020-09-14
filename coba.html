@@ -6,24 +6,39 @@
 	<title>Test</title>
 	<meta name="description" content="">
 	<style>
+		* {
+			font-size: 48px;
+			text-align: center;
+		}
+
 		.hijau {
-			color: blue;
+			color: green;
 		}
 		.biru {
-			color: red !important;
+			color: blue !important;
+		}
+		.biru {
+			color: blue;
 		}
 		span {
 			color: yellow;
 		}
+		
 	</style>
 </head>
 
 <body>
-		<span class="biru" style="color: purple;">test</span>
+		<!-- Inline vs Internal = Inline -->
+		<span class="hijau" style="color: purple;">Inline vs Internal</span>
 		<br>
-		<span>test</span>
 		<br>
-		<span class="biru">test</span>
+		<br>
+		<!-- Inline vs Important = Important -->
+		<span class="biru" style="color: black;">Inline vs Important</span>
+		<br>
+		<br>
+		<br>
+		<span class="warna">Inline vs Eksternal</span>
 		<br>
 
 </body>
