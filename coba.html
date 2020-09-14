@@ -10,20 +10,23 @@
 			font-size: 48px;
 			text-align: center;
 		}
-
+		/* Inline vs Internal = Inline */
 		.hijau {
 			color: green;
 		}
+
+		/* Inline vs Important = Important */
 		.biru {
 			color: blue !important;
 		}
-		.biru {
-			color: blue;
+
+		/* Inline vs Tag Span = Inline*/
+		.merah {
+			color: red;
 		}
 		span {
 			color: yellow;
 		}
-		
 	</style>
 </head>
 
@@ -33,13 +36,13 @@
 		<br>
 		<br>
 		<br>
+
 		<!-- Inline vs Important = Important -->
 		<span class="biru" style="color: black;">Inline vs Important</span>
 		<br>
 		<br>
 		<br>
-		<span class="warna">Inline vs Eksternal</span>
-		<br>
-
+		<!-- Inline vs Tag Span = Inline -->
+		<span class="merah">Inline vs Tag Span</span>
 </body>
 </html>
