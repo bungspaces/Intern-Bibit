@@ -156,6 +156,206 @@
 
 5. Perbedaan `parent, child, sibling`
 
+    a. **Parent** = elemen HTML yang berisi elemen-elemen HTML lain.
+
+    b. **Child** = elemen HTML yang berada "tepat" di dalam elemen lain dan bukan descendant.
+
+    c. **Descendant** = child dari child.
+
+    d. **Sibling** = elemen-elemen HTML yang berada pada lingkup yang sama atau diapit tag yang sama dengan elemen lainnya.
+
+    ```css
+    <HTML>
+    <HEAD>
+        <TITLE>Belajar HTML</TITLE>
+        <style>
+            .ortu{
+                background : yellow;
+                color : blue;
+            }
+
+            .anak1{
+                background : blue;
+                color : initial;
+            }
+
+            .anak2{
+                background : cyan;
+                color : inherit;
+            }
+
+            .anak3{
+                background : initial;
+                color : red;
+            }
+
+        </style>
+    </HEAD>
+    <BODY>
+        <H2>Belajar HTML</H2>
+        
+    			<div class = "ortu"> // parent
+            <div class ="anak1"> // child
+    				// disebut juga **sibling** karena memiliki parent yang sama
+
+                <p>
+                    Ini adalah paragraf 1.
+                </p>
+                <p>
+                    Ini adalah paragraf 2.
+                </p>
+                <p>
+                    Ini adalah paragraf 3.
+                </p>        
+    				</div>
+
+            <div class ="anak2"> // **child** 
+    				// disebut juga **sibling** karena memiliki parent yang sama
+
+                <p>
+                    Ini adalah paragraf 4.
+                </p>
+                <p>
+                    Ini adalah paragraf 5.
+                </p>
+                <p>
+                    Ini adalah paragraf 6.
+                </p>
+            </div>
+        </div>
+
+        <div class = "ortu"> // parent
+            <div class ="anak3"> // child
+                <p>
+                    Ini adalah paragraf 7.
+                </p>
+                <p>
+                    Ini adalah paragraf 8.
+                </p>
+                <p>
+                    Ini adalah paragraf 9.
+                </p>
+            </div>
+        </div>
+    </BODY>
+    </HTML>
+    ```
+
+    ```css
+    <HTML>
+    <HEAD>
+        <TITLE>Belajar HTML</TITLE>
+        <style>
+            .ortu{
+                background : yellow;
+            }
+    				
+    				// descendant ditulis setelah nama tag, id atau class parent-nya
+            .anak p{ // descendant
+                background : blue;
+                color : yellow;
+            }
+
+    				// descendant ditulis setelah nama tag, id atau class parent-nya
+            p.anak{ // descendant
+                background : green;
+                color : red;
+            }
+        </style>
+
+    </HEAD>
+    <BODY>
+        <H2>Belajar HTML</H2>
+        <div class = "ortu">
+            <div class ="anak">
+                <p>
+                    Ini adalah paragraf 1.
+                </p>
+                <p>
+                    Ini adalah paragraf 2.
+                </p>
+
+                <p>
+                    Ini adalah paragraf 3.
+                </p>
+            </div>
+           
+            <div>
+                <p>
+                    Ini adalah paragraf 4
+                </p>
+            </div>
+
+            <div>
+                <p class="anak">
+                    Ini adalah paragraf 4
+                </p>
+            </div>
+        </div>
+    </BODY>
+    </HTML>
+    ```
+
+    Combinator-combinator yang bisa digunakan dalam CSS yaitu:
+
+    1. spasi (descendant)
+    2. > (child)
+    3. + (satu sibling terdekat)
+    4. ~(sibling)
+
+    ```css
+    <HTML>
+    <HEAD>
+        <TITLE>Belajar HTML</TITLE>
+        <style>
+            #ortu{
+                background : green;
+                color : red;
+            }
+
+            #ortu *{
+                background : yellow;
+                color : blue;
+            }
+         
+           #ortu + p{
+                font-weight:bold;
+                color:pink;
+            }
+          
+            #ortu ~ p{
+                background : purple;
+            }
+        </style>
+    </HEAD>
+    <BODY>
+        <div id = "ortu">
+                <H2>Belajar HTML</H2>
+                <p>
+                    Ini adalah paragraf 1.
+                </p>
+                <div>
+                    <p>
+                        Ini adalah paragraf 2.
+                    </p>
+                    <p>
+                        Ini adalah paragraf 3.
+                    </p>
+                    <p>
+                        Ini adalah paragraf 4
+                    </p>
+                </div>
+        </div>
+        <p>
+            Ini adalah paragraf 3.
+        </p>
+        <p>
+            Ini adalah paragraf 4
+        </p>
+    </BODY>
+    </HTML>
+    ```
+
 # Additional Case
 
 ---
