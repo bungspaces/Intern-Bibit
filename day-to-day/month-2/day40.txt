@@ -17,6 +17,8 @@
 
     b. `Search box` terdapat 2 border
 
+    c. `Icons` pada search box belum ada
+
     c. `Cards` masih belum sesuai
 
     d. `Gambar` pada cards masih belum muncul
