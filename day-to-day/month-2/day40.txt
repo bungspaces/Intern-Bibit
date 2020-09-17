@@ -13,7 +13,7 @@
 
 1. Kesulitan dalam implementasi HTML CSS
 
-    a. `"Explore`" Top navbar text tidak berada ditengah
+    a. `Explore` Top navbar text tidak berada ditengah
 
     b. `Search box` terdapat 2 border
 
