@@ -11,7 +11,15 @@
 
 ---
 
-1. 
+1. Kesulitan dalam implementasi HTML CSS
+
+    a. `"Explore`" Top navbar text tidak berada ditengah
+
+    b. `Search box` terdapat 2 border
+
+    c. `Cards` masih belum sesuai
+
+    d. `Gambar` pada cards masih belum muncul
 
 # Homeworks!
 
