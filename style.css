@@ -156,3 +156,51 @@ right: 0; */
 	cursor: pointer;
 	border-radius: 6px;
 }
+
+/* Search Page */
+/* Mengatur header yang ada didalam container dengan memanggil class(selector) */
+.header {
+	height: 45px;
+    display: flex;
+	align-items: center;
+	/* elemen diposisikan dengan space antara garis (kiri nempel ke kiri, kanan kekanan, tengah ketengah */
+	justify-content: space-between;
+	/* Mengatur padding 0 = atas bawah, 16 = kiri kanan */
+	padding: 0 16px;
+	border-bottom: solid 1px #ededed;
+}
+/* Mengatur img header dengan memanggil class(selector) */
+.header img {
+	height: 16px;
+	width: auto;
+}
+.header-logo img {
+	height: 14px;
+}
+.content {
+	/* Memungkinkan untuk melakukan penghitungan untuk menentukan nilai properti CSS */
+	height: calc(100% - 95px);
+	display: flex;
+    align-items: center;
+	justify-content: center;
+	/* Membuat urutan menjadikan kolom kebawah */
+	flex-direction: column;
+	text-decoration: none;
+}
+.content img {
+	width: 240px;
+	height: 0px;
+}
+.content span {
+	padding: 0 0 30px 0;
+}
+.content a {
+	/* Mengatur button */
+	display: inline-block;
+	/* mengatur jarak antara text didalam button dengan outline button */
+	padding: 10px 20px;
+	background: #00ab6b;
+	border-radius: 6px;
+	text-align: center;
+	color: #fff;
+}
