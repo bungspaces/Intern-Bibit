@@ -1,11 +1,11 @@
 @font-face {
 	font-family: prxm;
 	src: url(ProximaNova-Regular.Otf);
-  }
+}
 
   * {
-	  font-family: prxm;
-  }
+	font-family: prxm;
+}
 
 /* Mengatur yang ada pada body */
 body {
@@ -38,7 +38,6 @@ a {
 	/* elemen diposisikan paling utama (depan) jika ada layer */
 	position: relative;
 }
-
 
 /* Mengatur header yang ada didalam container dengan memanggil class(selector) */
 .header {
@@ -134,7 +133,9 @@ right: 0; */
 	padding-top: 3px;
 }
 
-
+/* Coba Page */
+/* Coba Page */
+/* Coba Page */
 
 .content-baru {
 	/* Memungkinkan untuk melakukan penghitungan untuk menentukan nilai properti CSS */
@@ -157,7 +158,8 @@ right: 0; */
 	border-radius: 6px;
 }
 
-
+/* Search Page */
+/* Search Page */
 /* Search Page */
 
 /* Mengatur img header dengan memanggil class(selector) */
