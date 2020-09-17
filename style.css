@@ -3,7 +3,7 @@
 	src: url(ProximaNova-Regular.Otf);
   }
 
-  .font-custom {
+  * {
 	  font-family: prxm;
   }
 
@@ -157,50 +157,40 @@ right: 0; */
 	border-radius: 6px;
 }
 
+
 /* Search Page */
-/* Mengatur header yang ada didalam container dengan memanggil class(selector) */
-.header {
-	height: 45px;
-    display: flex;
-	align-items: center;
-	/* elemen diposisikan dengan space antara garis (kiri nempel ke kiri, kanan kekanan, tengah ketengah */
-	justify-content: space-between;
-	/* Mengatur padding 0 = atas bawah, 16 = kiri kanan */
-	padding: 0 16px;
-	border-bottom: solid 1px #ededed;
-}
+
 /* Mengatur img header dengan memanggil class(selector) */
-.header img {
+.header-nav {
 	height: 16px;
-	width: auto;
 }
-.header-logo img {
+.header-title {
 	height: 14px;
-}
-.content {
-	/* Memungkinkan untuk melakukan penghitungan untuk menentukan nilai properti CSS */
-	height: calc(100% - 95px);
-	display: flex;
-    align-items: center;
-	justify-content: center;
-	/* Membuat urutan menjadikan kolom kebawah */
-	flex-direction: column;
-	text-decoration: none;
-}
-.content img {
-	width: 240px;
-	height: 0px;
-}
-.content span {
-	padding: 0 0 30px 0;
-}
-.content a {
-	/* Mengatur button */
-	display: inline-block;
-	/* mengatur jarak antara text didalam button dengan outline button */
-	padding: 10px 20px;
-	background: #00ab6b;
-	border-radius: 6px;
 	text-align: center;
-	color: #fff;
+	white-space: nowrap;
+}
+.search-padding {
+	padding: 0 20px;
+}
+.search-button {
+	height: 24px;
+	border: 1px solid #CACCCF;
+	border-radius: 6px;
+}
+.search-name {
+	padding-left: 20px;
+}
+.card {
+	position: relative;
+	display: flex;
+	margin: 0 20px;
+	border: 1px solid #CACCCF;
+	width: 320px;
+	border-radius: 6px;
+	float: left;
+	margin-bottom: 16px;
+}
+
+.container {
+	padding: 0px 20px;
 }
