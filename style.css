@@ -163,12 +163,12 @@ right: 0; */
 /* Mengatur img header dengan memanggil class(selector) */
 .header-nav {
 	height: 16px;
+	width: auto;
 }
 .header-title {
 	height: 14px;
-	text-align: center;
-	white-space: nowrap;
 }
+
 .search-padding {
 	padding: 0 20px;
 }
