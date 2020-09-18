@@ -169,6 +169,11 @@ right: 0; */
 }
 .header-title {
 	height: 14px;
+	position: relative;
+	text-align: center;
+	justify-content: space-between;
+	width: -webkit-fill-available;
+	font-weight:bold;
 }
 
 .search-padding {

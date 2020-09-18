@@ -13,15 +13,13 @@
 
 1. Kesulitan dalam implementasi HTML CSS
 
-    a. `"Explore`" Top navbar text tidak berada ditengah
+    a. `Icon` pada search box belum ada
 
-    b. `Search box` terdapat 2 border
+    b. `Cards` masih belum sesuai
 
-    c. `Icon` pada search box belum ada
+    c. `Gambar` pada cards masih belum muncul
 
-    c. `Cards` masih belum sesuai
-
-    d. `Gambar` pada cards masih belum muncul
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1817102d-394e-4324-90af-8ce0b8d3e9aa/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1817102d-394e-4324-90af-8ce0b8d3e9aa/Untitled.png)
 
 # Homeworks!
 
