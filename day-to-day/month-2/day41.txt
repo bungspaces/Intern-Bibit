@@ -19,6 +19,13 @@
 
     c. `Gambar` pada cards masih belum muncul
 
+# Improvement
+
+---
+
+1. `Explore` sudah berada ditengah
+2. `Search box` sudah standar
+
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1817102d-394e-4324-90af-8ce0b8d3e9aa/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1817102d-394e-4324-90af-8ce0b8d3e9aa/Untitled.png)
 
 # Homeworks!
