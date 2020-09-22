@@ -201,3 +201,11 @@ right: 0; */
 .container {
 	padding: 0px 20px;
 }
+
+.card-container h4 {
+	font-size: 16px;
+}
+
+.card-container p {
+	font-size: 14px;
+}

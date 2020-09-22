@@ -27,6 +27,7 @@
 2. `Search box` sudah standar
 3. Sudah `clickable`
 4. `Icon` sudah konsisten sesuai style
+5. `Font-size` pada card sudah sesuai style
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1817102d-394e-4324-90af-8ce0b8d3e9aa/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1817102d-394e-4324-90af-8ce0b8d3e9aa/Untitled.png)
 
