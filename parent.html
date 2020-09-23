@@ -1,0 +1,80 @@
+<HTML>
+    <HEAD>
+        <TITLE>Parent, Child, and Sibling</TITLE>
+        <style>
+            .ortu{
+                background : yellow;
+                color : blue;
+            }
+    
+            .anak1{
+                background : blue;
+                color : initial;
+            }
+    
+            .anak2{
+                background : cyan;
+                color : inherit;
+            }
+    
+            .anak3{
+                background : initial;
+                color : red;
+            }
+    
+        </style>
+    </HEAD>
+    <BODY>
+        
+        <H2>Parent, Child, and Sibling</H2>
+        
+        <div class = "ortu"> <!-- parent -->
+            
+            <div class ="anak1"> <!-- child -->
+                    <!-- disebut juga sibling karena memiliki parent yang sama -->
+    
+                <p>
+                    Ini adalah paragraf 1.
+                </p>
+                <p>
+                    Ini adalah paragraf 2.
+                </p>
+                <p>
+                    Ini adalah paragraf 3.
+                </p>        
+            </div>
+    
+            <div class ="anak2"> <!-- child --> 
+                    <!-- disebut juga sibling karena memiliki parent yang sama -->
+    
+                <p>
+                    Ini adalah paragraf 4.
+                </p>
+                <p>
+                    Ini adalah paragraf 5.
+                </p>
+                <p>
+                    Ini adalah paragraf 6.
+                </p>
+            </div>
+
+        </div>
+    
+        <div class = "ortu"> <!-- parent -->
+
+            <div class ="anak3"> <!-- child -->
+                <p>
+                    Ini adalah paragraf 7.
+                </p>
+                <p>
+                    Ini adalah paragraf 8.
+                </p>
+                <p>
+                    Ini adalah paragraf 9.
+                </p>
+            </div>
+
+        </div>
+        
+    </BODY>
+    </HTML>
