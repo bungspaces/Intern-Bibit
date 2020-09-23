@@ -1,0 +1,389 @@
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4adc12da-1f4d-4504-a8af-61773071fdd6/Cover.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4adc12da-1f4d-4504-a8af-61773071fdd6/Cover.jpg)
+
+# Intern #day44
+
+- Kembali mempelajari seputar position pada CSS
+- Kembali mempelajari seputar parent, child, and sibling
+- Mencari contoh kasus dari positiong pada CSS dan Parent, child, sibling
+
+# Struggle
+
+---
+
+# Improvement
+
+---
+
+# Homeworks!
+
+---
+
+1. Position pada CSS 
+
+    Properti posisi CSS mengatur bagaimana elemen diposisikan. Kita bisa menetapkan posisi sebuah elemen dengan elemen yang lain menggunakan `Position` pada `CSS`. Berikut properti CSS yang dapat digunakan:
+
+    a. Static
+
+    Mengatur elemen menjadi statis secara default, elemen akan mengikuti posisi normal secara default.
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f33446e5-480a-4623-9ac0-f9626e4c44f8/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f33446e5-480a-4623-9ac0-f9626e4c44f8/Untitled.png)
+
+    b. Relative
+
+    **Hampir sama dengan CSS Position Static**, namun pada CSS Position Relative ini, kita bisa mengatur nilai top, bottom, right, left menggunakan nilai px.
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d08513ac-dfc6-4bb0-a0cc-1560f1da0595/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d08513ac-dfc6-4bb0-a0cc-1560f1da0595/Untitled.png)
+
+    c. Fixed
+
+    Sebuah elemen yang menggunakan `position: fixed;` akan memiliki sifat tetap, bahkan ketika discroll. Kita bisa mengatur: top | left | bottom | right
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/da059850-90b1-4a2c-b140-861ce267a25f/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/da059850-90b1-4a2c-b140-861ce267a25f/Untitled.png)
+
+    d. Absolute
+
+    Position yang paling **powerfull**, jika `position: static` dan `position: relative` mengalir, `position: absolute` bisa kita atur semau kita
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/707eb7f5-c2fe-4f87-9f47-cf6b8b286821/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/707eb7f5-c2fe-4f87-9f47-cf6b8b286821/Untitled.png)
+
+    ### Reference
+
+    [position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+
+    [Belajar CSS - Memahami Position Static, Relative, Absolute dan Fixed pada CSS](https://www.awonapa.com/2019/04/belajar-css-memahami-position-static.html)
+
+    [Tutorial Lengkap Memahami CSS Position - Jagocoding.com](http://jagocoding.com/tutorial/542/Tutorial_Lengkap_Memahami_CSS_Position)
+
+2. Apa gunanya property `Float` pada CSS ✅
+
+    Common element, berguna untuk mengatur tata letak elemen secara horizontal. Float mempunyai 4 properti `float: left | right | none | inherit` Float biasa ditemukan pada `navbar`
+
+    a. float: left;
+
+    Digunakan untuk menentukan bahwa sebuah elemen harus mengapung (float) disebelah kiri dari posisi containing block (elemen blok yang menampungnya).
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/93b8edd5-a048-4a22-8038-7ccade2f1424/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/93b8edd5-a048-4a22-8038-7ccade2f1424/Untitled.png)
+
+    b. float: right;
+
+    Digunakan untuk menentukan bahwa sebuah elemen harus mengapung (float) disebelah kanan dari posisi containing block (elemen blok yang menampungnya).
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7b75d25e-0cc1-451b-8564-da0a12f66203/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7b75d25e-0cc1-451b-8564-da0a12f66203/Untitled.png)
+
+    c. float: none;
+
+    Digunakan untuk menentukan bahwa sebuah elemen tidak boleh mengapung (float).
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/97a5b92e-4016-44d5-9c67-2a220358bc54/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/97a5b92e-4016-44d5-9c67-2a220358bc54/Untitled.png)
+
+    d. float: inherit;
+
+    Sama seperti namanya `inherit` atau `inheritance`, elemen ini mewarisi nilai `float` dari induknya
+
+    ### Reference
+
+    [float](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
+
+3. Cara menggunakan custom font di google font ✅
+
+    a. Download font yang diinginkan (ttf, otf, eot, woff)
+
+    b. Taruh font yang sudah didownload di tempat kita menyimpan file
+
+    c. Tambahkan code berikut
+
+    ```css
+    // Untuk memasukan font eksternal (google fonts, etc) kedalam CSS
+    @font-face {
+
+    	// Nama untuk font kita, bebas mau apa aja
+    	font-family: prxm;
+
+    	// Lokasi font yang akan digunakan yang berada dalam satu folder
+    	src: url(ProximaNova-Regular.otf);
+      }
+
+    	// Memanggil nama class pada file coba.html
+      .font-custom {
+
+    		// Nama yang telah kita buat sebelumnya
+    	  font-family: prxm;
+      }
+    ```
+
+    ### Reference
+
+    [Cara Menggunakan Font External dengan CSS (@font-face) | Duniailkom](https://www.duniailkom.com/tutorial-belajar-css-cara-menggunakan-font-external-dengan-css-font-face/)
+
+4. Selain px, satuan ukuran apa yang sering digunakan di CSS ✅
+
+    a. Persentase `%`
+
+    Persentase adalah satuan yang tidak menghitung berdasarkan ukuran elemen itu sendiri namun perbandingan dengan induk elemennya.
+
+    b. Satuan `PX`
+
+    Satuan ini hanya cocok digunakan oleh elemen yang berukuran akurat, tidak terpengaruh oleh elemen disekitarnya atau induknya.
+
+    c. Satuan `rem` dan `em`
+
+    **Satuan rem dan em bisa dikatakan 16 kali dari satuan px,** jadi **1rem/em = 16px**, namun pada satuan em bisa bergantung pada font-size, misalnya induk elemen memiliki property font-size 14px dan anaknya memiliki property font-size: 1.6em, maka hasil yang akan ditampilkan adalah 14px * 1.6em = 22.4px.
+
+    ```css
+    .button{
+        font-size: 1em;
+
+    		// 5em = ... px        10em = ... px
+    		5 x 16px = 80px       10 x 16px = 160px 
+        padding: 5em 10em;
+      }
+
+    // **Tidak berlaku untuk satuan rem**
+    ```
+
+    d. Satuan Viewport `vw` dan `vh` (cara terbaik untuk membuat elemen responsif)
+
+    **Mirip dengan satuan persentase**, viewport dapat menentukan height, vw artinya viewport width dan vh artinya viewport height. **Satuan ini bergantung pada induk elemennya**, jika induk elemen mempunyai ukuran 300px x 400px maka 1vh darinya adalah **400 * 1/100 = 4px** dan jika 100vh artinya adalah height yang kita tentukan 100% dari height induknya.
+
+    ```css
+    body{
+        height: 40px;
+      }
+      body .screen.cover{
+        height: 1vh;
+      }
+    ```
+
+    e. Satuan `ex` dan `ch`
+
+    **Satuan ini mirip dengan rem dan em**, bedanya 1ex/ch = 8px, namun s**atuan ini tidak hanya bergantung pada font-size tapi juga bergantung pada font-family** agar ukurannya lebih spesifik.
+
+5. Perbedaan `parent, child, sibling`
+
+    a. **Parent** = elemen HTML yang berisi elemen-elemen HTML lain.
+
+    b. **Child** = elemen HTML yang berada "tepat" di dalam elemen lain dan bukan descendant.
+
+    c. **Descendant** = child dari child.
+
+    d. **Sibling** = elemen-elemen HTML yang berada pada lingkup yang sama atau diapit tag yang sama dengan elemen lainnya.
+
+    ```css
+    <HTML>
+    <HEAD>
+        <TITLE>Belajar HTML</TITLE>
+        <style>
+            .ortu{
+                background : yellow;
+                color : blue;
+            }
+
+            .anak1{
+                background : blue;
+                color : initial;
+            }
+
+            .anak2{
+                background : cyan;
+                color : inherit;
+            }
+
+            .anak3{
+                background : initial;
+                color : red;
+            }
+
+        </style>
+    </HEAD>
+    <BODY>
+        <H2>Belajar HTML</H2>
+        
+    			<div class = "ortu"> // parent
+            <div class ="anak1"> // child
+    				// disebut juga **sibling** karena memiliki parent yang sama
+
+                <p>
+                    Ini adalah paragraf 1.
+                </p>
+                <p>
+                    Ini adalah paragraf 2.
+                </p>
+                <p>
+                    Ini adalah paragraf 3.
+                </p>        
+    				</div>
+
+            <div class ="anak2"> // **child** 
+    				// disebut juga **sibling** karena memiliki parent yang sama
+
+                <p>
+                    Ini adalah paragraf 4.
+                </p>
+                <p>
+                    Ini adalah paragraf 5.
+                </p>
+                <p>
+                    Ini adalah paragraf 6.
+                </p>
+            </div>
+        </div>
+
+        <div class = "ortu"> // parent
+            <div class ="anak3"> // child
+                <p>
+                    Ini adalah paragraf 7.
+                </p>
+                <p>
+                    Ini adalah paragraf 8.
+                </p>
+                <p>
+                    Ini adalah paragraf 9.
+                </p>
+            </div>
+        </div>
+    </BODY>
+    </HTML>
+    ```
+
+    ```css
+    <HTML>
+    <HEAD>
+        <TITLE>Belajar HTML</TITLE>
+        <style>
+            .ortu{
+                background : yellow;
+            }
+    				
+    				// descendant ditulis setelah nama tag, id atau class parent-nya
+            .anak p{ // descendant
+                background : blue;
+                color : yellow;
+            }
+
+    				// descendant ditulis setelah nama tag, id atau class parent-nya
+            p.anak{ // descendant
+                background : green;
+                color : red;
+            }
+        </style>
+
+    </HEAD>
+    <BODY>
+        <H2>Belajar HTML</H2>
+        <div class = "ortu">
+            <div class ="anak">
+                <p>
+                    Ini adalah paragraf 1.
+                </p>
+                <p>
+                    Ini adalah paragraf 2.
+                </p>
+
+                <p>
+                    Ini adalah paragraf 3.
+                </p>
+            </div>
+           
+            <div>
+                <p>
+                    Ini adalah paragraf 4
+                </p>
+            </div>
+
+            <div>
+                <p class="anak">
+                    Ini adalah paragraf 4
+                </p>
+            </div>
+        </div>
+    </BODY>
+    </HTML>
+    ```
+
+    Combinator-combinator yang bisa digunakan dalam CSS yaitu:
+
+    1. spasi (descendant)
+    2. > (child)
+    3. + (satu sibling terdekat)
+    4. ~ (sibling)
+
+    ```css
+    <HTML>
+    <HEAD>
+        <TITLE>Belajar HTML</TITLE>
+        <style>
+            #ortu{
+                background : green;
+                color : red;
+            }
+
+            #ortu *{
+                background : yellow;
+                color : blue;
+            }
+         
+           #ortu + p{
+                font-weight:bold;
+                color:pink;
+            }
+          
+            #ortu ~ p{
+                background : purple;
+            }
+        </style>
+    </HEAD>
+    <BODY>
+        <div id = "ortu">
+                <H2>Belajar HTML</H2>
+                <p>
+                    Ini adalah paragraf 1.
+                </p>
+                <div>
+                    <p>
+                        Ini adalah paragraf 2.
+                    </p>
+                    <p>
+                        Ini adalah paragraf 3.
+                    </p>
+                    <p>
+                        Ini adalah paragraf 4
+                    </p>
+                </div>
+        </div>
+        <p>
+            Ini adalah paragraf 3.
+        </p>
+        <p>
+            Ini adalah paragraf 4
+        </p>
+    </BODY>
+    </HTML>
+    ```
+
+# Additional Case
+
+---
+
+1. Implementasi Javascript pada halaman `link.html`
+
+    a. Javascript dapat menampilkan elemen HTML yang tersembunyi
+
+    ```jsx
+    document.getElementById("demo").style.display = "block";]
+    ```
+
+    ### Reference
+
+    [JavaScript Introduction](https://www.w3schools.com/js/js_intro.asp)
+
+# Goals
+
+---
+
+- Meredesain tampilan (UI)
+- Meredesain flow (UX)
+- Menstandarisasi tampilan UI/UX aplikasi Bibit
+- Membuat style aplikasi Bibit menjadi lebih konsisten
+- Mengimplementasi desain yang telah dibuat menggunakan html dan css
+
+Meredesain semua yang dirasa kurang dari segi visual maupun kegunaan, dari hal terbesar maupun hal terkecil sekalipun
