@@ -1,0 +1,45 @@
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4adc12da-1f4d-4504-a8af-61773071fdd6/Cover.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4adc12da-1f4d-4504-a8af-61773071fdd6/Cover.jpg)
+
+# Intern #day49
+
+- Mempelajari seputar website yang responsive
+
+Ada dua cara untuk membuat website menjadi responsive:
+
+1. Media Query
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef2eaad2-fa7f-4dc4-9bf0-d7e260c13369/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef2eaad2-fa7f-4dc4-9bf0-d7e260c13369/Untitled.png)
+
+2. Flexible Grid Layouting (Flexbox)
+
+### Reference
+
+[A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+# Struggle
+
+---
+
+# Improvement
+
+---
+
+# Homeworks!
+
+---
+
+# Additional Case
+
+---
+
+# Goals
+
+---
+
+- Meredesain tampilan (UI)
+- Meredesain flow (UX)
+- Menstandarisasi tampilan UI/UX aplikasi Bibit
+- Membuat style aplikasi Bibit menjadi lebih konsisten
+- Mengimplementasi desain yang telah dibuat menggunakan html dan css
+
+Meredesain semua yang dirasa kurang dari segi visual maupun kegunaan, dari hal terbesar maupun hal terkecil sekalipun

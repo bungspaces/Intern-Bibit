@@ -17,8 +17,8 @@
 		}
 
 		.container {
-			width: 480px;
-			height: 583px;
+			width: 360px;
+			height: 640px;
 			border: black solid;
 			border-radius: 20px;
 		}
@@ -28,12 +28,24 @@
 			display: block;
 			color: white;
 			width: calc(100% - 20px);
-			margin: auto;
+			/* width: calc(25%); */
+			margin: 0 auto;
 			height: 40px;
+			/* float: left; */
 			line-height: 40px;
 			text-align: center;
 			border-radius: 16px;
 			text-decoration: none;
+			/* clear: left; */
+		}
+
+		.container div {
+			width: calc((100%) / 4);
+			box-sizing: border-box;
+			/* float: left; */
+			border: 1px solid;
+			margin-bottom: 8px;
+			background-color: blue;
 		}
 
 	</style>
@@ -45,6 +57,10 @@
 	<div>
 
 		<div class="container">
+
+			<div class="div-satu">1</div>
+			<div class="div-dua">2</div>
+			<div class="div-tiga">3</div>
 
 				<a class="btn-submit" href="#" type="submit">Submit</a>
 
