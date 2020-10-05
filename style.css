@@ -202,9 +202,20 @@ a {
 	top: 45px;
 }
 
-.nilai-porto {
+.nilai-porto-lock {
 	color: #000000;
 	margin: 0 20px;
+	width: 100%;
+	display: flex;
+}
+
+.nilai-porto {
+	width: 80%;
+}
+
+.icon-lock {
+	width: 24px;
+	display: flex;
 }
 
 .keuntungan-hasil {
@@ -224,6 +235,10 @@ a {
 	text-align: end;
 }
 
+.nilai-teks{
+	color: #B5B5BB;
+}
+
 .persentase {
 	color: red;
 }
@@ -240,11 +255,19 @@ a {
 
 .lihat-porto-teks {
 	width: 100%;
-	color: #000000;
+	color: #00ab6b;
 }
 
 .lihat-porto-icon {
 	display: flex;
 	width: 24px;
 	align-self: right;
+}
+
+.dana {
+	margin-top: 10px;
+	width: calc(100% - 40px);
+	height: 80px;
+	background-color: #00ab6b;
+	border-radius: 10px;
 }
