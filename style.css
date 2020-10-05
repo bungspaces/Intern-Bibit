@@ -175,3 +175,18 @@ a {
 .card-container p {
 	font-size: 14px;
 }
+
+/* Transaksi Page */
+/* Transaksi Page */
+/* Transaksi Page */
+
+.navbar {
+	display: flex;
+	width: 100%;
+}
+
+.transaksi-navbar {
+	display: inline-block;
+	text-align: center;
+	width: 50%;
+}
