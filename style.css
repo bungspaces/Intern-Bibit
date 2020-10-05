@@ -190,3 +190,61 @@ a {
 	text-align: center;
 	width: 50%;
 }
+
+/* Home Page */
+/* Home Page */
+/* Home Page */
+
+.nilai {
+	width: 100%;
+	height: auto;
+	position: absolute;
+	top: 45px;
+}
+
+.nilai-porto {
+	color: #000000;
+	margin: 0 20px;
+}
+
+.keuntungan-hasil {
+	display: flex;
+	color: #000000;
+	margin: 0 20px;
+}
+
+.keuntungan {
+	display: inline-block;
+	width: 50%;
+}
+
+.hasil {
+	display: inline-block;
+	width: 50%;
+	text-align: end;
+}
+
+.persentase {
+	color: red;
+}
+
+.garis {
+	border: 0.1px #cbcbcb solid;
+	margin: 0 20px;
+}
+
+.lihat-porto {
+	display: flex;
+	margin: 0 20px;
+}
+
+.lihat-porto-teks {
+	width: 100%;
+	color: #000000;
+}
+
+.lihat-porto-icon {
+	display: flex;
+	width: 24px;
+	align-self: right;
+}
