@@ -214,6 +214,7 @@ a {
 	cursor: pointer;
 	text-decoration: underline;
 	text-decoration-color: #00ab6b;
+	text
 }
 
 /* Home Page */
@@ -317,4 +318,48 @@ a {
 	height: auto;
 	width: 24px;
 	display: inline-flex;
+}
+
+/* Portofolio Page */
+/* Portofolio Page */
+/* Portofolio Page */
+
+.investasi-sekarang {
+	width: 100%;
+	height: auto;
+	position: absolute;
+	top: 45px;
+	background-color: #e0fff3;
+}
+
+/* .porto-tabungan {
+	margin-top: 200px;
+}
+
+.porto-dana-tabungan {
+	margin-top: 12px;
+	margin-left: 10px;
+	width: calc(100% - 20px);
+	background-color: #ffffff;
+	border-radius: 10px;
+	border: 1px solid #757575;
+	display: flex;
+}
+
+.icon-tabungan {
+	width: 100%;
+	display: flex;
+}
+
+.porto-nilai {
+	margin-left: 10px;
+	width: 100%;
+}
+
+.porto-investasi {
+	
+} */
+
+.porto-keuntungan {
+
 }
