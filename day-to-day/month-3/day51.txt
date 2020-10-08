@@ -1,0 +1,61 @@
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4adc12da-1f4d-4504-a8af-61773071fdd6/Cover.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4adc12da-1f4d-4504-a8af-61773071fdd6/Cover.jpg)
+
+# Intern #day51
+
+- Live coding untuk mendemokan position pada css
+- Mempelajari seputar website yang responsive
+- Mengimplementasikan website responsive
+
+Web Responsive adalah desain web responsif untuk membuat halaman sebuah website terlihat **bagus pada semua perangkat**. Biasanya hanya menggunakan `HTML` dan `CSS`.
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7aa8d5ec-867d-4974-ac78-a2750a34f7c6/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7aa8d5ec-867d-4974-ac78-a2750a34f7c6/Untitled.png)
+
+Ada dua cara untuk membuat website menjadi responsive:
+
+1. Media Query
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef2eaad2-fa7f-4dc4-9bf0-d7e260c13369/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ef2eaad2-fa7f-4dc4-9bf0-d7e260c13369/Untitled.png)
+
+2. Flexible Grid Layouting (Flexbox)
+
+Halaman web dibagi menjadi beberapa kolom (biasanya 12) dan lebarnya 100%
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c216a025-89f4-42a1-8fb1-6ca575b941b4/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c216a025-89f4-42a1-8fb1-6ca575b941b4/Untitled.png)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/15ac0f17-15c1-461b-a078-b949d07c914b/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/15ac0f17-15c1-461b-a078-b949d07c914b/Untitled.png)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ef3d074-8f64-4955-8473-e4adcfabac25/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0ef3d074-8f64-4955-8473-e4adcfabac25/Untitled.png)
+
+### Reference
+
+[A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+[Responsive Web Design Grid](https://www.w3schools.com/css/css_rwd_grid.asp)
+
+# Struggle
+
+---
+
+# Improvement
+
+---
+
+# Homeworks!
+
+---
+
+# Additional Case
+
+---
+
+# Goals
+
+---
+
+- Meredesain tampilan (UI)
+- Meredesain flow (UX)
+- Menstandarisasi tampilan UI/UX aplikasi Bibit
+- Membuat style aplikasi Bibit menjadi lebih konsisten
+- Mengimplementasi desain yang telah dibuat menggunakan html dan css
+
+Meredesain semua yang dirasa kurang dari segi visual maupun kegunaan, dari hal terbesar maupun hal terkecil sekalipun

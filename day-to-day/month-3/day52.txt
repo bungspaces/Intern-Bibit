@@ -1,0 +1,39 @@
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4adc12da-1f4d-4504-a8af-61773071fdd6/Cover.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4adc12da-1f4d-4504-a8af-61773071fdd6/Cover.jpg)
+
+# Intern #day52
+
+- Mengimplementasikan halaman transaksi pada aplikasi Bibit
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ddc39e92-4499-4de4-910e-5d00fd8a584c/127.0.0.1_5500_transaksi.html.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ddc39e92-4499-4de4-910e-5d00fd8a584c/127.0.0.1_5500_transaksi.html.png)
+
+- Mengimplementasikan halaman home pada aplikasi Bibit
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d318bf47-4ec5-4896-ac0f-1678a36aabce/127.0.0.1_5500_home.html.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d318bf47-4ec5-4896-ac0f-1678a36aabce/127.0.0.1_5500_home.html.png)
+
+# Struggle
+
+---
+
+# Improvement
+
+---
+
+# Homeworks!
+
+---
+
+# Additional Case
+
+---
+
+# Goals
+
+---
+
+- Meredesain tampilan (UI)
+- Meredesain flow (UX)
+- Menstandarisasi tampilan UI/UX aplikasi Bibit
+- Membuat style aplikasi Bibit menjadi lebih konsisten
+- Mengimplementasi desain yang telah dibuat menggunakan html dan css
+
+Meredesain semua yang dirasa kurang dari segi visual maupun kegunaan, dari hal terbesar maupun hal terkecil sekalipun
