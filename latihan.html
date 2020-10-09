@@ -5,24 +5,25 @@
 	<meta charset="utf-8">
 	<title>Ayo Belajar</title>
 	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no, user-scalable=no">
 	
 	<style>
 
 		body {
-			display: flex;
+			/* display: flex;
 			align-items: center;	
 			justify-content: center;
 			height: 100vh;
-			margin: 0;
+			margin: 0; */
 		}
 
-		.container {
+		/* .container {
 			width: 360px;
 			height: 640px;
 			border: black solid;
 			border-radius: 20px;
 			position: relative;
-		}
+		} */
 
 		.btn-submit {
 			background-color: green;
@@ -44,40 +45,55 @@
 			right: 0;
 		}
 
-		.container div {
+		/* .container div {
 			box-sizing: border-box;
+			width: 100px; */
 			/* float: left; */
-			border: 1px solid;
+			/* border: 1px solid;
 			margin-bottom: 8px;
-			background-color: blue;
-		}
+			background-color:;
+		} */
 
 		.paragraf {
 			overflow-y: auto;
 			height: calc(100% - 60px);
 			width: 100%;
-
 		}
 
-
-
-		/* .div-satu {
-			position: fixed;
-			right: 50px;
+		.div-satu {
 		}
 
 		.div-dua {
-			position: absolute;
-			right: 50px;
 		}
 
 		.div-tiga {
-			right: 50px;
-		} */
+		}
 
-		@media screen and (max-width: 900px) {
-			body {
-				background-color:aqua;
+		
+
+		.container {
+			/* width: 360px;
+			height: 640px; */
+			/* border: black solid; */
+			/* border-radius: 20px; */
+			position: relative;
+			background-color: yellow;
+		}
+
+		.container div {
+			box-sizing: border-box;
+			width: 100px;
+			/* float: left; */
+			border: 1px solid;
+			margin-bottom: 8px;
+			background-color:;
+			float: left;
+		}
+
+		@media screen and (max-width: 360px) {
+			.container div {
+				float: none;
+				width: 100%;
 			}
 		} 
 
@@ -87,15 +103,13 @@
 
 <body>
 
-	<div>
-
 		<div class="container">
 
-<!-- 			<div class="div-satu">1</div>
+			<div class="div-satu">1</div>
 			<div class="div-dua">2</div>
-			<div class="div-tiga">3</div> -->
+			<div class="div-tiga">3</div>
 
-				<a class="btn-submit" href="#" type="submit">Submit</a>
+			<!-- <a class="btn-submit" href="#" type="submit">Submit</a>
 
 			<div class="paragraf">
 				<p>Lorem Ipsum</p>
@@ -127,14 +141,13 @@
 				<p>Lorem Ipsum</p>
 				<p>Lorem Ipsum</p>
 				<p>Lorem Ipsum</p>
-			</div>
+			</div> -->
 				
 			</div>
 
 		</div>
 
 		<!-- <a class="kotak-dua" href="">Ini Kotak</a> -->
-	</div>
 
 </body>
 </html>
