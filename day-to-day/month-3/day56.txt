@@ -1,0 +1,70 @@
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4adc12da-1f4d-4504-a8af-61773071fdd6/Cover.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4adc12da-1f4d-4504-a8af-61773071fdd6/Cover.jpg)
+
+# Intern #day56
+
+- Mengerjakan tugas baru:
+    1. Mencari aplikasi dark mode (aksen hijau)
+
+        a. Play Store
+
+        b. Youtube
+
+        c. Gmail
+
+        d. Drive
+
+        e. Google Calendar
+
+        f. Telegram
+
+        g. Slack
+
+        h. Line
+
+        i. Muslim Pro
+
+    2. Apa kegunaan dari
+
+        ```html
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no, user-scalable=no">
+        ```
+
+        - `viewport`
+
+            digunakan **untuk desain web yang responsif** (responsive web design). Responsif adalah **web bisa menyesuaikan diri dengan perangkat yang digunakan oleh user** atau pengunjung web.
+
+        - `content="width=device-width`
+
+            lebar web akan mengikuti lebar dari layar perangkat yang digunakan
+
+        - `initial-scale=1`
+
+            web akan diberikan skala (zoom) menjadi 1 (normal)
+
+# Struggle
+
+---
+
+# Improvement
+
+---
+
+# Homeworks!
+
+---
+
+# Additional Case
+
+---
+
+# Goals
+
+---
+
+- Meredesain tampilan (UI)
+- Meredesain flow (UX)
+- Menstandarisasi tampilan UI/UX aplikasi Bibit
+- Membuat style aplikasi Bibit menjadi lebih konsisten
+- Mengimplementasi desain yang telah dibuat menggunakan html dan css
+
+Meredesain semua yang dirasa kurang dari segi visual maupun kegunaan, dari hal terbesar maupun hal terkecil sekalipun
