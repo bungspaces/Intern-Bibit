@@ -2,7 +2,7 @@
 
 # Intern #day58
 
-- Melanjutkan mengimplementasikan halaman portofolio (invested) pada aplikasi Bibit
+- Melanjutkan mengimplementasikan halaman portofolio (invested) pada aplikasi Bibit dan membuatnya menjadi responsive (inspect galaxy s5 langsung menyesuaikan)
 
     ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4f635188-be37-41c8-acce-cff482f5ad26/127.0.0.1_5500_portofolio.html.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4f635188-be37-41c8-acce-cff482f5ad26/127.0.0.1_5500_portofolio.html.png)
 
