@@ -1,0 +1,41 @@
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4adc12da-1f4d-4504-a8af-61773071fdd6/Cover.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4adc12da-1f4d-4504-a8af-61773071fdd6/Cover.jpg)
+
+# Intern #day59
+
+- Melanjutkan mengimplementasikan halaman portofolio (invested) pada aplikasi Bibit dan **menambahkan button tambah portofolio**
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc8dabd3-6046-46f7-a666-1825a60e1da1/127.0.0.1_5500_portofolio.html(Galaxy_S5)_(1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fc8dabd3-6046-46f7-a666-1825a60e1da1/127.0.0.1_5500_portofolio.html(Galaxy_S5)_(1).png)
+
+- Melanjutkan implementasi halaman transaksi (history)
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6bb48c91-061a-4c4c-921c-3bbf64bcc998/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6bb48c91-061a-4c4c-921c-3bbf64bcc998/Untitled.png)
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b5ed282d-2a25-449c-aad3-cf5618467d1e/127.0.0.1_5500_transaksi-history.html(Galaxy_S5).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b5ed282d-2a25-449c-aad3-cf5618467d1e/127.0.0.1_5500_transaksi-history.html(Galaxy_S5).png)
+
+# Struggle
+
+---
+
+# Improvement
+
+---
+
+# Homeworks!
+
+---
+
+# Additional Case
+
+---
+
+# Goals
+
+---
+
+- Meredesain tampilan (UI)
+- Meredesain flow (UX)
+- Menstandarisasi tampilan UI/UX aplikasi Bibit
+- Membuat style aplikasi Bibit menjadi lebih konsisten
+- Mengimplementasi desain yang telah dibuat menggunakan html dan css
+
+Meredesain semua yang dirasa kurang dari segi visual maupun kegunaan, dari hal terbesar maupun hal terkecil sekalipun
