@@ -197,6 +197,14 @@ a {
 /* Transaksi Page */
 /* Transaksi Page */
 
+.header-transaksi {
+	height: 45px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0 16px;
+}
+
 .navbar {
 	display: flex;
 	width: 100%;
@@ -214,6 +222,44 @@ a {
 	cursor: pointer;
 	text-decoration: underline;
 	text-decoration-color: #00ab6b;
+}
+
+.transaksi-filter {
+	text-align: right;
+	margin-right: 20px;
+	color: #00ab6b;
+}
+
+.transaksi-history {
+	display: flex;
+}
+
+.logo-transaksi-history {
+	width: 100px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: auto;
+}
+
+.nama-transaksi-history {
+	border-radius: 10px;
+	display: block;
+	width: calc(100% - 40px);
+	margin-left: 20px;
+}
+
+.nama-reksadana {
+
+}
+
+.pembelian-reksadana {
+
+}
+
+.jumlah-transaksi-history {
+	margin-right: 20px;
+	color: #00ab6b;
 }
 
 /* Home Page */
@@ -269,7 +315,7 @@ a {
 }
 
 .garis {
-	border: 0.1px #cbcbcb solid;
+	border: 0.1px #f8f8f8 solid;
 }
 
 .lihat-porto {
@@ -322,12 +368,21 @@ a {
 /* Portofolio Page */
 /* Portofolio Page */
 
+.header-portofolio {
+	height: 45px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0 16px;
+	background-color: #f0fff9;
+}
+
 .investasi-sekarang {
 	width: 100%;
 	height: auto;
 	position: absolute;
 	top: 45px;
-	background-color: #e0fff3;
+	background-color: #f0fff9;
 }
 
 .porto-tabungan {
