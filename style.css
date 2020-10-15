@@ -249,13 +249,9 @@ a {
 	margin-left: 20px;
 }
 
-.nama-reksadana {
+.nama-reksadana {}
 
-}
-
-.pembelian-reksadana {
-
-}
+.pembelian-reksadana {}
 
 .jumlah-transaksi-history {
 	margin-right: 20px;
@@ -315,7 +311,7 @@ a {
 }
 
 .garis {
-	border: 0.1px #f8f8f8 solid;
+	border: 0.1px #d8d8d8 solid;
 }
 
 .lihat-porto {
@@ -428,4 +424,132 @@ a {
 	height: auto;
 	text-align: center;
 	color: #00ab6b;
+}
+
+/* Profil Page */
+/* Profil Page */
+/* Profil Page */
+
+.header-profil {
+	height: 45px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0 16px;
+}
+
+.profil-section {
+	display: flex;
+	width: calc(100% - 40px);
+	margin-left: 20px;
+	background-color: #00ab6b;
+}
+
+.profil-name {
+	margin-left: 10px;
+	background-color: yellow;
+}
+
+.logo-profil {
+	background-color: red;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.profil-garis {
+	border: 4px #d8d8d8 solid;
+}
+
+.profil-keterangan {
+	display: flex;
+	width: calc(100% - 40px);
+	margin-left: 20px;
+	background-color: #00ab6b;
+}
+
+.logo-keterangan {
+	background-color: red;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.name-keterangan {
+	margin-left: 10px;
+	background-color: yellow;
+	width: 100%;
+}
+
+.logo-next {
+	background-color: red;
+	display: flex;
+}
+
+.garis-keterangan {
+	border: 1px #d8d8d8 solid;
+}
+
+/* The switch - the box around the slider */
+.switch {
+	top: 8px;
+	position: relative;
+	display: inline-block;
+	width: 60px;
+	height: 34px;
+}
+
+/* Hide default HTML checkbox */
+.switch input {
+	opacity: 0;
+	width: 0;
+	height: 0;
+}
+
+/* The slider */
+.slider {
+	position: absolute;
+	cursor: pointer;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: #ccc;
+	-webkit-transition: .4s;
+	transition: .4s;
+}
+
+.slider:before {
+	position: absolute;
+	content: "";
+	height: 26px;
+	width: 26px;
+	left: 4px;
+	bottom: 4px;
+	background-color: white;
+	-webkit-transition: .4s;
+	transition: .4s;
+}
+
+input:checked+.slider {
+	background-color: #00ab6b;
+}
+
+input:focus+.slider {
+	box-shadow: 0 0 1px #02ec96;
+}
+
+input:checked+.slider:before {
+	-webkit-transform: translateX(26px);
+	-ms-transform: translateX(26px);
+	transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+	border-radius: 34px;
+}
+
+.slider.round:before {
+	border-radius: 50%;
 }
