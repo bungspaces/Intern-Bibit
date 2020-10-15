@@ -442,17 +442,17 @@ a {
 	display: flex;
 	width: calc(100% - 40px);
 	margin-left: 20px;
-	background-color: #00ab6b;
-}
+/* 	background-color: #00ab6b;
+ */}
 
 .profil-name {
 	margin-left: 10px;
-	background-color: yellow;
-}
+/* 	background-color: yellow;
+ */}
 
 .logo-profil {
-	background-color: red;
-	display: flex;
+/* 	background-color: red;
+ */	display: flex;
 	align-items: center;
 	justify-content: center;
 }
@@ -465,25 +465,25 @@ a {
 	display: flex;
 	width: calc(100% - 40px);
 	margin-left: 20px;
-	background-color: #00ab6b;
-}
+/* 	background-color: #00ab6b;
+ */}
 
 .logo-keterangan {
-	background-color: red;
-	display: flex;
+/* 	background-color: red;
+ */	display: flex;
 	align-items: center;
 	justify-content: center;
 }
 
 .name-keterangan {
 	margin-left: 10px;
-	background-color: yellow;
-	width: 100%;
+/* 	background-color: yellow;
+ */	width: 100%;
 }
 
 .logo-next {
-	background-color: red;
-	display: flex;
+/* 	background-color: red;
+ */	display: flex;
 }
 
 .garis-keterangan {
