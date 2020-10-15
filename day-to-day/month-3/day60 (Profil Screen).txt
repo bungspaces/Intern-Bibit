@@ -1,0 +1,40 @@
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4adc12da-1f4d-4504-a8af-61773071fdd6/Cover.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4adc12da-1f4d-4504-a8af-61773071fdd6/Cover.jpg)
+
+# Intern #day60
+
+- Mengimplementasikan profil screen
+    - Toogle swtich dengan interaksi animasi (css)
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d12d645c-8a74-4140-b47c-26777af935e5/127.0.0.1_5500_profil.html(Galaxy_S5).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d12d645c-8a74-4140-b47c-26777af935e5/127.0.0.1_5500_profil.html(Galaxy_S5).png)
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/665a395f-324c-4999-84a7-dc60e5fb194c/127.0.0.1_5500_profil.html(Galaxy_S5)_(1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/665a395f-324c-4999-84a7-dc60e5fb194c/127.0.0.1_5500_profil.html(Galaxy_S5)_(1).png)
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/315b4a0a-634e-4e69-bc2b-2ae9e5d391bf/127.0.0.1_5500_profil.html(Galaxy_S5)_(2).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/315b4a0a-634e-4e69-bc2b-2ae9e5d391bf/127.0.0.1_5500_profil.html(Galaxy_S5)_(2).png)
+
+# Struggle
+
+---
+
+# Improvement
+
+---
+
+# Homeworks!
+
+---
+
+# Additional Case
+
+---
+
+# Goals
+
+---
+
+- Meredesain tampilan (UI)
+- Meredesain flow (UX)
+- Menstandarisasi tampilan UI/UX aplikasi Bibit
+- Membuat style aplikasi Bibit menjadi lebih konsisten
+- Mengimplementasi desain yang telah dibuat menggunakan html dan css
+
+Meredesain semua yang dirasa kurang dari segi visual maupun kegunaan, dari hal terbesar maupun hal terkecil sekalipun
