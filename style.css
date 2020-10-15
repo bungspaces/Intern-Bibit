@@ -311,7 +311,7 @@ a {
 }
 
 .garis {
-	border: 0.1px #d8d8d8 solid;
+	border-bottom: 0.1px #d8d8d8 solid;
 }
 
 .lihat-porto {
@@ -458,7 +458,7 @@ a {
 }
 
 .profil-garis {
-	border: 2px #d8d8d8 solid;
+	border-bottom: 4px #d8d8d8 solid;
 }
 
 .profil-keterangan {
@@ -487,7 +487,7 @@ a {
 }
 
 .garis-keterangan {
-	border: 0.1px #d8d8d8 solid;
+	border-bottom: 0.1px #d8d8d8 solid;
 }
 
 /* The switch - the box around the slider */
