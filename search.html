@@ -8,6 +8,7 @@
 	<meta charset="utf-8">
 	<!-- Judul tab brower -->
 	<title>Search</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no, user-scalable=no">
 	<!-- Menghubungkan folder css dengan html -->
 	<link rel="stylesheet" href="style.css">
 </head>
@@ -17,13 +18,22 @@
 	<!-- Membuat box/kotak ditengah -->
 	<div class="box">
 
-		<div class="header">
+		<div class="header-search">
 			<!-- Memasukan logo bibit dan icon search -->
 			<div class="header-nav"><a href="index.html"><img src="icon/back.svg" alt=""></a></div>
 			<div class="header-title">Explore</div>
 		</div>
 
-		<div class="content-search">
+		<form action="#">
+			<input placeholder="Cari Reksadana" type="text" name="search">
+			<button type="submit">Search</button>
+		</form>
+
+		<!-- <form method="get" action="/search" id="search">
+			<input name="q" type="text" size="40" placeholder="Cari Reksadana..." />
+		</form> -->
+
+		<!-- <div class="content-search">
 
 			<div class="search-padding">
 				<div class="search-button">
@@ -31,10 +41,41 @@
 						<input type="search" placeholder="Cari Reksadana...">
 					</form>
 				</div>
-			</div>
+			</div> -->
 
 			<h4 class="search-name">Tipe Reksa Dana</h4>
-			<div class="card">
+
+			<div class="search-content">
+				<div class="logo-search">
+					<img src="img/pasaruang.jpg" alt="">
+				</div>
+				<div class="search-tipe">
+					<h3>Pasar Uang</h3>
+					<p>Resiko rendah dengan return yang lebih tinggi dari deposito.</p>
+				</div>
+			</div>
+
+			<div class="search-content">
+				<div class="logo-search">
+					<img src="img/obligasi.jpg" alt="">
+				</div>
+				<div class="search-tipe">
+					<h3>Obligasi</h3>
+					<p>Return yang stabil dengan resiko yang moderat.</p>
+				</div>
+			</div>
+
+			<div class="search-content">
+				<div class="logo-search">
+					<img src="img/saham.jpg" alt="">
+				</div>
+				<div class="search-tipe">
+					<h3>Saham</h3>
+					<p>Return tertinggi untuk yang berani ambil resiko investasi jangka panjang.</p>
+				</div>
+			</div>
+
+			<!-- <div class="card">
 				<img src="/img/logo.png" alt="" style="width: 50%">
 				<div class="card-container">
 					<h4><b>Pasar Uang</b></h4> 
@@ -57,7 +98,7 @@
 					<p style="color: #CACCCF">Return tertinggi untuk yang berani ambil resiko investasi jangka panjang.</p> 
 				</div>
 			</div>
-		</div>
+		</div> -->
 
 		<div class="fotter">
 				<!-- Icon yang aktif -->

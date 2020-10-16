@@ -141,6 +141,14 @@ a {
 /* Search Page */
 /* Search Page */
 
+.header-search {
+	height: 45px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 0 16px;
+}
+
 /* Mengatur img header dengan memanggil class(selector) */
 .header-nav {
 	height: 16px;
@@ -156,7 +164,68 @@ a {
 	font-weight: bold;
 }
 
-.search-padding {
+/* #search {
+
+}
+
+
+#search input[type="text"] {
+    background: url(search-white.png) no-repeat 10px 6px rgb(255, 255, 255);
+    border: 0 none;
+    font: bold 12px Arial,Helvetica,Sans-serif;
+    color: #5c0505;
+    width:150px;
+    padding: 6px 15px 6px 35px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-shadow: 0 2px 2px rgba(0, 0, 0, 0.3); 
+    -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset;
+    -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset;
+    -webkit-transition: all 0.7s ease 0s;
+    -moz-transition: all 0.7s ease 0s;
+    -o-transition: all 0.7s ease 0s;
+    transition: all 0.7s ease 0s;
+    }
+
+#search input[type="text"]:focus {
+    background: url(search-dark.png) no-repeat 10px 6px #fcfcfc;
+    color: #6a6f75;
+    width: 200px;
+    -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0, 0, 0, 0.9) inset;
+    -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0, 0, 0, 0.9) inset;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0, 0, 0, 0.9) inset;
+    text-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
+    } */
+
+input,
+button {
+	font: inherit;
+	border: 4;
+}
+
+form {
+	display: flex;
+	grid-column: 2;
+}
+
+input {
+	flex-grow: 1;
+	padding: 5px 8px;
+	margin-left: 20px;
+	margin-right: 5px;
+}
+
+button {
+	padding: 5px 8px;
+	background: #00ab6b;
+	color: #ffffff;
+	border: none;
+	margin-right: 20px;
+}
+
+/* .search-padding {
 	padding: 0 20px;
 }
 
@@ -164,13 +233,35 @@ a {
 	height: 24px;
 	border: 1px solid #CACCCF;
 	border-radius: 6px;
-}
+} */
 
 .search-name {
-	padding-left: 20px;
+	margin-left: 20px;
 }
 
-.card {
+.search-content {
+/* 	background-color: #00ab6b;
+ */	display: flex;
+	margin: 0px 20px;
+	border: 0.1px #d8d8d8 solid;
+	border-radius: 10px;
+}
+
+.logo-search {
+/* 	background-color: red;
+ */	width: 100px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: auto;
+}
+
+.search-tipe {
+/* 	background-color: yellow;
+ */	margin: 0 10px 0 10px;
+}
+
+/* .card {
 	position: relative;
 	display: flex;
 	margin: 0 20px;
@@ -191,7 +282,7 @@ a {
 
 .card-container p {
 	font-size: 14px;
-}
+} */
 
 /* Transaksi Page */
 /* Transaksi Page */
