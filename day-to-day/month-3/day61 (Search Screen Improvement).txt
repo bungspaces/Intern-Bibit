@@ -1,0 +1,47 @@
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4adc12da-1f4d-4504-a8af-61773071fdd6/Cover.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4adc12da-1f4d-4504-a8af-61773071fdd6/Cover.jpg)
+
+# Intern #day61
+
+- Melanjutkan mengimplementasikan search screen
+    - Merevisi
+        - Membuatnya menjadi responsive ketika diinspect elemen dan diganti dengan device android
+        - Merubah kolom search
+        - Merubah isi konten
+
+    Before
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c33a98b-1dd0-4dd3-afe5-30c563d2cee5/127.0.0.1_5500_search.html.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7c33a98b-1dd0-4dd3-afe5-30c563d2cee5/127.0.0.1_5500_search.html.png)
+
+    After
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/68a75ae6-5976-4264-9d21-b01f182efa41/127.0.0.1_5500_search.html_search(Galaxy_S5).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/68a75ae6-5976-4264-9d21-b01f182efa41/127.0.0.1_5500_search.html_search(Galaxy_S5).png)
+
+    ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9e20e46e-1e12-48c6-a8cd-d6ff85f4d9d0/127.0.0.1_5500_search.html_search(Galaxy_S5)_(1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9e20e46e-1e12-48c6-a8cd-d6ff85f4d9d0/127.0.0.1_5500_search.html_search(Galaxy_S5)_(1).png)
+
+# Struggle
+
+---
+
+# Improvement
+
+---
+
+# Homeworks!
+
+---
+
+# Additional Case
+
+---
+
+# Goals
+
+---
+
+- Meredesain tampilan (UI)
+- Meredesain flow (UX)
+- Menstandarisasi tampilan UI/UX aplikasi Bibit
+- Membuat style aplikasi Bibit menjadi lebih konsisten
+- Mengimplementasi desain yang telah dibuat menggunakan html dan css
+
+Meredesain semua yang dirasa kurang dari segi visual maupun kegunaan, dari hal terbesar maupun hal terkecil sekalipun
