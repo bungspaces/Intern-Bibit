@@ -58,6 +58,7 @@ a {
 	align-items: center;
 	justify-content: center;
 	flex-direction: column;
+	overflow-y: auto;
 }
 
 .content img {
@@ -373,6 +374,7 @@ button {
 	height: auto;
 	position: absolute;
 	top: 45px;
+	background-color: white;
 }
 
 .nilai-porto-lock {
