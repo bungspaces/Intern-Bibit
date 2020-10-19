@@ -16,10 +16,14 @@
 
         <h1 align="center">Membuat <span>Link</span> Menjadi Seperti Button</h1>
 
+        <p id="link" style="display:none" align="center">Hello ini adalah link dengan kombinasi javascript!</p>
+
 		<div class="content">
 <!-- 			<span>Ini Pake Link</span>
  -->			<!-- Button yang clickable -->
-			<a href="index.html" alt="">This is Link</a>
+            <!-- <a href="index.html" alt="">This is Link</a> -->
+            <a href="#" alt="" onclick="document.getElementById('link').style.display='block'">This is Link</a>
+            
 		</div>
 
 		<div class="fotter">
@@ -33,12 +37,19 @@
 
         <h1 align="center">Membuat <span>Button</span> Menjadi Seperti Link</h1>
 
+        <p id="button" style="display:none" align="center">Hello ini adalah button dengan kombinasi javascript!</p>
+
 		<div class="content-baru">
 <!-- 			<span>Ini Pake Link</span>
  -->			<!-- Button yang clickable -->
 <!--             <a href="index.html" alt="">Back to Home</a>
- -->             <form method="get" action="index.html">
+ -->             <!-- <form method="get" action="index.html">
          <button class="button" type="submit">This is Button</button>
+        </form> -->
+        <form method="get" action="#">
+            <!--     JavaScript Dapat Menampilkan Elemen HTML
+                Menampilkan elemen HTML tersembunyi juga dapat dilakukan dengan mengubah gaya tampilan: -->
+                    <button class="button" type="submit" onclick="document.getElementById('button').style.display='block'">This is Button</button>
         </form>
         
     </div>
