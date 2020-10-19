@@ -1,0 +1,41 @@
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4adc12da-1f4d-4504-a8af-61773071fdd6/Cover.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4adc12da-1f4d-4504-a8af-61773071fdd6/Cover.jpg)
+
+# Intern #day62
+
+- Memperbaiki `Distance` (jarak) antar element masih jauh
+- Melanjutkan implementasi **Transaksi History Screen**
+    - Menambahkan icon filter
+- Melanjutkan implementasi **Portofolio Screen**
+    - Menambahkan icon plus
+
+# Struggle
+
+---
+
+# Improvement
+
+---
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/13686f78-6f2b-4501-9858-36838b404f1f/127.0.0.1_5500_transaksi-history.html(Galaxy_S5).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/13686f78-6f2b-4501-9858-36838b404f1f/127.0.0.1_5500_transaksi-history.html(Galaxy_S5).png)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/298e7469-8dbb-4852-8df0-3a562e97671e/127.0.0.1_5500_portofolio.html(Galaxy_S5).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/298e7469-8dbb-4852-8df0-3a562e97671e/127.0.0.1_5500_portofolio.html(Galaxy_S5).png)
+
+# Homeworks!
+
+---
+
+# Additional Case
+
+---
+
+# Goals
+
+---
+
+- Meredesain tampilan (UI)
+- Meredesain flow (UX)
+- Menstandarisasi tampilan UI/UX aplikasi Bibit
+- Membuat style aplikasi Bibit menjadi lebih konsisten
+- Mengimplementasi desain yang telah dibuat menggunakan html dan css
+
+Meredesain semua yang dirasa kurang dari segi visual maupun kegunaan, dari hal terbesar maupun hal terkecil sekalipun
