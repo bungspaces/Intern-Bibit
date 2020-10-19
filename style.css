@@ -319,6 +319,17 @@ button {
 	text-align: right;
 	margin-right: 20px;
 	color: #00ab6b;
+	margin-top: -10px;
+}
+
+.garis-transaksi {
+	border-bottom: 0.1px #d8d8d8 solid;
+	margin-top: 15px;
+}
+
+.tgl-transaksi {
+	margin-top: -20px;
+	color: rgb(190, 190, 190);
 }
 
 .transaksi-history {
