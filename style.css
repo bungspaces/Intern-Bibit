@@ -1,10 +1,5 @@
-@font-face {
-	font-family: prxm;
-	src: url(ProximaNova-Regular.Otf);
-}
-
 * {
-	font-family: prxm;
+	font-family: 'Poppins', sans-serif;
 }
 
 body {
@@ -528,6 +523,8 @@ button {
 	height: auto;
 	text-align: center;
 	color: #00ab6b;
+	display: flex;
+	justify-content: center;
 }
 
 /* Profil Page */
