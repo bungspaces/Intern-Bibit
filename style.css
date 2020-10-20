@@ -170,45 +170,11 @@ a {
 	font-weight: bold;
 }
 
-/* #search {
-
-}
-
-
-#search input[type="text"] {
-    background: url(search-white.png) no-repeat 10px 6px rgb(255, 255, 255);
-    border: 0 none;
-    font: bold 12px Arial,Helvetica,Sans-serif;
-    color: #5c0505;
-    width:150px;
-    padding: 6px 15px 6px 35px;
-    -webkit-border-radius: 20px;
-    -moz-border-radius: 20px;
-    border-radius: 20px;
-    text-shadow: 0 2px 2px rgba(0, 0, 0, 0.3); 
-    -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset;
-    -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset;
-    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 3px rgba(0, 0, 0, 0.2) inset;
-    -webkit-transition: all 0.7s ease 0s;
-    -moz-transition: all 0.7s ease 0s;
-    -o-transition: all 0.7s ease 0s;
-    transition: all 0.7s ease 0s;
-    }
-
-#search input[type="text"]:focus {
-    background: url(search-dark.png) no-repeat 10px 6px #fcfcfc;
-    color: #6a6f75;
-    width: 200px;
-    -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0, 0, 0, 0.9) inset;
-    -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0, 0, 0, 0.9) inset;
-    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(0, 0, 0, 0.9) inset;
-    text-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
-    } */
-
 input,
 button {
 	font: inherit;
 	border: 4;
+	margin-top: 10px;
 }
 
 form {
@@ -248,7 +214,7 @@ button {
 .search-content {
 /* 	background-color: #00ab6b;
  */	display: flex;
-	margin: 0px 20px;
+	margin: 20px 20px;
 	border: 0.1px #d8d8d8 solid;
 	border-radius: 10px;
 }
@@ -260,37 +226,35 @@ button {
 	align-items: flex-end;
 	justify-content: center;
 	height: auto;
-	border-left: 5px solid blue;
+	border-left: 5px solid #00ab6b;
 	border-radius: 10px 0 0 10px;
 }
 
+.logo-search-blue {
+	/* 	background-color: red;
+	 */	width: 100px;
+		display: flex;
+		align-items: flex-end;
+		justify-content: center;
+		height: auto;
+		border-left: 5px solid #2478B4;
+		border-radius: 10px 0 0 10px;
+	}
+
+	.logo-search-purple {
+		/* 	background-color: red;
+		 */	width: 100px;
+			display: flex;
+			align-items: flex-end;
+			justify-content: center;
+			height: auto;
+			border-left: 5px solid #9343C8;
+			border-radius: 10px 0 0 10px;
+		}
+
 .search-tipe {
-/* 	background-color: yellow;
- */	margin: 0 10px 0 10px;
+	margin: -18px 10px 0 10px;
 }
-
-/* .card {
-	position: relative;
-	display: flex;
-	margin: 0 20px;
-	border: 1px solid #CACCCF;
-	width: 320px;
-	border-radius: 6px;
-	float: left;
-	margin-bottom: 16px;
-}
-
-.container {
-	padding: 0px 20px;
-}
-
-.card-container h4 {
-	font-size: 16px;
-}
-
-.card-container p {
-	font-size: 14px;
-} */
 
 /* Transaksi Page */
 /* Transaksi Page */
