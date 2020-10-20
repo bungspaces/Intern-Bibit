@@ -54,11 +54,14 @@ a {
 
 .content {
 	height: calc(100% - 95px);
+	overflow-y: auto;
+}
+
+.content-flex {
 	display: flex;
 	align-items: center;
 	justify-content: center;
 	flex-direction: column;
-	overflow-y: auto;
 }
 
 .content img {
@@ -254,9 +257,11 @@ button {
 /* 	background-color: red;
  */	width: 100px;
 	display: flex;
-	align-items: center;
+	align-items: flex-end;
 	justify-content: center;
 	height: auto;
+	border-left: 5px solid blue;
+	border-radius: 10px 0 0 10px;
 }
 
 .search-tipe {
@@ -372,7 +377,6 @@ button {
 .nilai {
 	width: 100%;
 	height: auto;
-	position: absolute;
 	top: 45px;
 	background-color: white;
 }
@@ -441,7 +445,6 @@ button {
 .dana {
 	display: flex;
 	width: 100%;
-	margin-top: 144px;
 	height: auto;
 	background-color: #ececec;
 }
