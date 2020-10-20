@@ -1,0 +1,57 @@
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4adc12da-1f4d-4504-a8af-61773071fdd6/Cover.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4adc12da-1f4d-4504-a8af-61773071fdd6/Cover.jpg)
+
+# Intern #day63
+
+- Merapikan semua screen yang menjadi berantakan ketika dibuat bisa di`scroll`
+    - Home
+    - Portofolio
+    - Transaksi (Order)
+- Sudah responsive menggunakan berbagai macam screen mobile device (Galaxy S5, iPhone X, etc)
+- Membuat state yang menandakan suatu halaman yang sedang aktif
+
+# Struggle
+
+---
+
+# Improvement
+
+---
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f33a8a7f-64c2-44e4-a1c1-32971c148f00/127.0.0.1_5500_home.html(iPhone_X).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f33a8a7f-64c2-44e4-a1c1-32971c148f00/127.0.0.1_5500_home.html(iPhone_X).png)
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2bb02bdc-0145-4763-8559-1fa6444de3cf/127.0.0.1_5500_home.html(Galaxy_S5).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2bb02bdc-0145-4763-8559-1fa6444de3cf/127.0.0.1_5500_home.html(Galaxy_S5).png)
+
+Galaxy S5 Screen
+
+iPhone X Screen
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/950732e9-7888-4a40-8d6b-856c2b189b0f/127.0.0.1_5500_home.html(Galaxy_S5)_(1).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/950732e9-7888-4a40-8d6b-856c2b189b0f/127.0.0.1_5500_home.html(Galaxy_S5)_(1).png)
+
+Membuat state yang menandakan halaman yang sedang aktif
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea77164e-68b8-4811-bdca-d3530fa70a10/127.0.0.1_5500_transaksi-history.html(Galaxy_S5).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea77164e-68b8-4811-bdca-d3530fa70a10/127.0.0.1_5500_transaksi-history.html(Galaxy_S5).png)
+
+Membuat state yang menandakan halaman yang sedang aktif
+
+# Homeworks!
+
+---
+
+1. Standard title untuk paragraf?
+2. Merapihkan semua screen yang terkena dampak perubahan setelah dibungkus oleh (`class: content`) ✅
+
+# Additional Case
+
+---
+
+# Goals
+
+---
+
+- Meredesain tampilan (UI)
+- Meredesain flow (UX)
+- Menstandarisasi tampilan UI/UX aplikasi Bibit
+- Membuat style aplikasi Bibit menjadi lebih konsisten
+- Mengimplementasi desain yang telah dibuat menggunakan html dan css
+
+Meredesain semua yang dirasa kurang dari segi visual maupun kegunaan, dari hal terbesar maupun hal terkecil sekalipun
