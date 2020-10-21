@@ -32,7 +32,7 @@ a {
 		height: 100vh;
 		width: 100%;
 	}
-} 
+}
 
 .header {
 	height: 45px;
@@ -75,7 +75,7 @@ a {
 
 .content a {
 	display: inline-block;
-	padding: 10px 20px;
+	padding: 14px 88px;
 	background: #00ab6b;
 	border-radius: 6px;
 	text-align: center;
@@ -212,16 +212,18 @@ button {
 }
 
 .search-content {
-/* 	background-color: #00ab6b;
- */	display: flex;
+	/* 	background-color: #00ab6b;
+ */
+	display: flex;
 	margin: 20px 20px;
 	border: 0.1px #d8d8d8 solid;
 	border-radius: 10px;
 }
 
 .logo-search {
-/* 	background-color: red;
- */	width: 100px;
+	/* 	background-color: red;
+ */
+	width: 100px;
 	display: flex;
 	align-items: flex-end;
 	justify-content: center;
@@ -232,25 +234,27 @@ button {
 
 .logo-search-blue {
 	/* 	background-color: red;
-	 */	width: 100px;
-		display: flex;
-		align-items: flex-end;
-		justify-content: center;
-		height: auto;
-		border-left: 5px solid #2478B4;
-		border-radius: 10px 0 0 10px;
-	}
+	 */
+	width: 100px;
+	display: flex;
+	align-items: flex-end;
+	justify-content: center;
+	height: auto;
+	border-left: 5px solid #2478B4;
+	border-radius: 10px 0 0 10px;
+}
 
-	.logo-search-purple {
-		/* 	background-color: red;
-		 */	width: 100px;
-			display: flex;
-			align-items: flex-end;
-			justify-content: center;
-			height: auto;
-			border-left: 5px solid #9343C8;
-			border-radius: 10px 0 0 10px;
-		}
+.logo-search-purple {
+	/* 	background-color: red;
+		 */
+	width: 100px;
+	display: flex;
+	align-items: flex-end;
+	justify-content: center;
+	height: auto;
+	border-left: 5px solid #9343C8;
+	border-radius: 10px 0 0 10px;
+}
 
 .search-tipe {
 	margin: -18px 10px 0 10px;
@@ -390,6 +394,13 @@ button {
 	border-bottom: 0.1px #d8d8d8 solid;
 }
 
+.topup {
+	text-align: center;
+	color: #00ab6b;
+	display: flex;
+	justify-content: center;
+}
+
 .lihat-porto {
 	display: flex;
 	margin: 0 20px;
@@ -433,6 +444,129 @@ button {
 	height: auto;
 	width: 24px;
 	display: inline-flex;
+}
+
+.content-rekomendasi {
+	margin: 0 20px;
+}
+
+.rekomendasi-robo-pensiun {
+	width: 100%;
+	height: auto;
+	display: flex;
+	border: 1px #d8d8d8 solid;
+	border-radius: 10px;
+}
+
+.content-rekomendasi-robo-pensiun {
+	display: flex;
+	width: 100%;
+}
+
+.logo-rekomendasi-robo {
+	width: 24px;
+	height: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: auto;
+	margin-left: 24px;
+}
+
+.rekomendasi-keterangan {
+	width: 80%;
+	margin-left: 24px;
+}
+
+.rekomendasi-ubah {
+	color: #00ab6b;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	margin-right: 20px;
+}
+
+.content-danapensiun {
+	display: flex;
+	margin: 20px 20px;
+	border: 0.1px #d8d8d8 solid;
+	border-radius: 10px;
+}
+
+.logo-content-danapensiun {
+	width: 56px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: auto;
+	justify-content: center;
+	border-left: 5px solid #00ab6b;
+	border-radius: 10px 0 0 10px;
+}
+
+.logo-content-danapensiun-obligasi {
+	width: 56px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: auto;
+	justify-content: center;
+	border-left: 5px solid #2478B4;
+	border-radius: 10px 0 0 10px;
+}
+
+.logo-content-danapensiun-saham {
+	width: 56px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: auto;
+	justify-content: center;
+	border-left: 5px solid #9343C8;
+	border-radius: 10px 0 0 10px;
+}
+
+.content-danapensiun-manulife {
+	margin: -15px 10px 0 10px;
+	width: 55%;
+}
+
+.persentase-danapensiun {
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	margin-right: 15px;
+}
+
+.icon-danapensiun {
+	display: flex;
+	width: 24px;
+	margin: 10px;
+}
+
+.rekomendasi-investasi {
+	border-radius: 10px;
+	padding: 14px 88px;
+	margin: 0 20px;
+	text-align: center;
+	display: flex;
+	margin: auto;
+}
+
+.pilih-reksadana {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	align-self: flex-end;
+}
+
+.pilih-reksadana {
+	text-align: center;
+    justify-content: center;
+}
+
+.pilih-reksadana-opsi {
+	width: 100%;
 }
 
 /* Portofolio Page */
