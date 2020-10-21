@@ -1,0 +1,46 @@
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4adc12da-1f4d-4504-a8af-61773071fdd6/Cover.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4adc12da-1f4d-4504-a8af-61773071fdd6/Cover.jpg)
+
+# Intern #day64
+
+- Melanjutkan mengimplementasikan homescreen dengan banyak kontennya
+- Merevisi screen transaksi
+
+# Struggle
+
+---
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c2592c23-14e4-4c8e-9d09-b2c04f735d6e/127.0.0.1_5500_home.html(Galaxy_S5)_(4).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c2592c23-14e4-4c8e-9d09-b2c04f735d6e/127.0.0.1_5500_home.html(Galaxy_S5)_(4).png)
+
+- `Pilih Reksa Dana section` masih belum sesuai dengan tampilan aslinya
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/12a14bb3-0182-4ed1-86a1-eef421feca62/127.0.0.1_5500_home.html(Galaxy_S5)_(5).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/12a14bb3-0182-4ed1-86a1-eef421feca62/127.0.0.1_5500_home.html(Galaxy_S5)_(5).png)
+
+- `Rekomendasi Robo` masih belum sesuai juga
+
+# Improvement
+
+---
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9112e3da-9a8c-42b5-8943-bd245130ccd7/127.0.0.1_5500_home.html(Galaxy_S5)_(3).png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9112e3da-9a8c-42b5-8943-bd245130ccd7/127.0.0.1_5500_home.html(Galaxy_S5)_(3).png)
+
+- Konten sudah mulai penuh terisi
+
+# Homeworks!
+
+---
+
+# Additional Case
+
+---
+
+# Goals
+
+---
+
+- Meredesain tampilan (UI)
+- Meredesain flow (UX)
+- Menstandarisasi tampilan UI/UX aplikasi Bibit
+- Membuat style aplikasi Bibit menjadi lebih konsisten
+- Mengimplementasi desain yang telah dibuat menggunakan html dan css
+
+Meredesain semua yang dirasa kurang dari segi visual maupun kegunaan, dari hal terbesar maupun hal terkecil sekalipun
