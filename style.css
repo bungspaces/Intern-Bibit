@@ -75,7 +75,7 @@ a {
 
 .content a {
 	display: inline-block;
-	padding: 14px 88px;
+	padding: 10px 20px;
 	background: #00ab6b;
 	border-radius: 6px;
 	text-align: center;
@@ -546,11 +546,16 @@ button {
 
 .rekomendasi-investasi {
 	border-radius: 10px;
-	padding: 14px 88px;
+	padding: 10px 56px;
 	margin: 0 20px;
 	text-align: center;
 	display: flex;
 	margin: auto;
+}
+
+.home-garis {
+	margin-top: 20px;
+	border-bottom: 10px #ECECEC solid;
 }
 
 .pilih-reksadana {
